@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
-    "@sugarat/theme": "^0.4.12",
+    "@sugarat/theme": "0.4.12",
     "element-plus": "^2.7.2",
     "patch-package": "^8.0.0",
     "vue": "3.4.26"
@@ -34,7 +34,7 @@
       ]
     },
     "patchedDependencies": {
-      "@sugarat/theme": "patches/@sugarat__theme.patch"
+      "@sugarat/theme": "./patches/@sugarat__theme.patch"
     }
   }
 }
