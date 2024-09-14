@@ -1,5 +1,5 @@
 ---
-title: git 教程
+title: git 基础教程
 date: 2022/04/25
 tags:
   - git
@@ -7,11 +7,11 @@ categories:
   - 基础
 ---
 
-## 介绍
+# 介绍
 
 [Git](https://git-scm.com/)是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。简单来讲就是代码管理工具,安装挺简单的傻瓜式安装，以下介绍常用命令并不是全部命令
 
-## 常用命令以及描述
+## 常用命令 `git`
 
 ```bash
 # git init  初始化仓库git仓库
@@ -32,7 +32,7 @@ git push
 git pull
 ```
 
-## 分支
+## 分支`branch`
 
 分支(branch)一个分支代表一条独立的开发线。 使用分支意味着你可以从开发主线上分离开来，然后在不影响主线的同时继续工作,下面介绍分支的常用操作
 
@@ -51,7 +51,7 @@ git branch -d develop
 git merge  develop
 ```
 
-## 标签
+## 标签 `tag`
 
 发布一个版本时，我们通常先在版本库中打一个标签（tag），这样就唯一确定了打标签时刻的版本。将来无论什么时候，取某个标签的版本，就是把那个打标签的时刻的历史版本取出来。
 
@@ -70,4 +70,24 @@ git push origin v1.0.0
 git push origin --tags
 # git branch newBranchName tagName 根据标签创建分支
 git branch develop_01 v1.0.0
+```
+## 暂存 `stash`
+
+当你在一个分支上进行开发，工作还没完成，但需要切换到其他分支时，可以用 git stash 暂时保存当前工作进度。
+当你需要拉取远程仓库的代码，但本地有未提交的修改时，可以先 stash 当前修改，完成拉取后再恢复之前的工作。
+
+```bash
+# 保存当前工作区的所有未提交的修改
+git stash
+# 列出所有的 stash 记录
+git stash list
+# 恢复最近的 stash 并删除记录
+git stash pop
+# 恢复最近的 stash，但不删除记录
+git stash apply
+# 删除最近的 stash
+git stash drop
+# 清空所有的 stash 记录
+git stash clear
+
 ```
