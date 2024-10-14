@@ -26,6 +26,8 @@ const blogTheme = getThemeConfig({
 
   // markdown 图表支持（会增加一定的构建耗时）
   // mermaid: true
+  // 是否开启深色模式过渡动画
+  darkTransition: true,
 
   // 页脚
   footer: {
@@ -65,6 +67,21 @@ const blogTheme = getThemeConfig({
     //   url: 'https://vitepress.dev/',
     // },
   ],
+
+  buttonAfterArticle: {
+    openTitle: '赞赏',
+    closeTitle: '下次一定',
+    content: '<img src="https://ldjun-nest.oss-cn-shenzhen.aliyuncs.com/pay.jpg">',
+    icon: 'aliPay'
+  },
+
+  comment: {
+    repo: 'liudonjun/ygking-blog',
+    repoId: 'R_kgDOMxPqFg',
+    category: 'Announcements',
+    categoryId: 'DIC_kwDOMxPqFs4CjVuR',
+    inputPosition: 'top',
+  }
 
   // 公告
   // popover: {

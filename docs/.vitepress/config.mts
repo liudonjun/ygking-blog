@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import { La51Plugin } from 'vitepress-plugin-51la'
 // 导入主题的配置
 import { blogTheme } from './blog-theme'
 
@@ -26,6 +26,14 @@ export default defineConfig({
     // ['link', { rel: 'icon', href: `${base}favicon.ico` }], // 修改了 base 这里也需要同步修改
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
+  vite:{
+    plugins: [
+      La51Plugin({
+        id: '3JzYYf32HFpoNV8h',
+        ck: '3JzYYf32HFpoNV8h'
+      })
+    ]
+  },
   themeConfig: {
     // 展示 2,3 级标题在目录中
     outline: {
@@ -54,5 +62,5 @@ export default defineConfig({
         link: 'https://github.com/liudonjun'
       }
     ]
-  }
+  },
 })

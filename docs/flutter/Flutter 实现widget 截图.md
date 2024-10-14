@@ -3,6 +3,12 @@ title: Flutter 实现 Widget 截图并保存到本地
 description: 在 Flutter 中，将 Widget 转换为图片并保存或分享是一项常见需求。无论是为了保存当前屏幕，还是分享某个特定 UI 部分的截图，这些功能都可以通过 RepaintBoundary 实现。本文将详细介绍如何在 Flutter 中实现 Widget 截图并将图片保存到本地。
 tag:
  - Flutter
+ - 截图
+buttonAfterArticle:
+  openTitle: 投币
+  closeTitle: 下次一定
+  content: '<img src="https://img.cdn.sugarat.top/mdImg/MTY0Nzc1NTYyOTE5Mw==647755629193">'
+  icon: aliPay
 # top: 1
 sidebar: true
 ---
