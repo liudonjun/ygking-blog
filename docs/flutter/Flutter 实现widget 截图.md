@@ -4,12 +4,7 @@ description: 在 Flutter 中，将 Widget 转换为图片并保存或分享是�
 tag:
  - Flutter
  - 截图
-buttonAfterArticle:
-  openTitle: 投币
-  closeTitle: 下次一定
-  content: '<img src="https://img.cdn.sugarat.top/mdImg/MTY0Nzc1NTYyOTE5Mw==647755629193">'
-  icon: aliPay
-# top: 1
+top: 1
 sidebar: true
 ---
 
