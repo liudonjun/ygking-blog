@@ -7,9 +7,10 @@ tag:
 sidebar: true
 ---
 
-# RepaintBoundary
+# Flutter 实现widget 截图
 
 Flutter 提供了 `RepaintBoundary` 小部件，它允许你将某个 `Widget `限制在一个单独的绘制区域，这样就可以轻松地将该区域渲染为图片。
+
 [https://api.flutter.dev/flutter/widgets/RepaintBoundary-class.html](https://api.flutter.dev/flutter/widgets/RepaintBoundary-class.html)
 
 核心步骤：
