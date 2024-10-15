@@ -54,7 +54,7 @@ export default defineConfig({
     },
     nav: [
       // { text: '首页', link: '/' },
-      { text: '关于作者', link: '/about' },
+      // { text: '关于作者', link: '/about' },
       {
         text: 'tools',
         items: [
