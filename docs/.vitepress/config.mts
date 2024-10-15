@@ -47,14 +47,39 @@ export default defineConfig({
 
     // 设置logo
     logo: '/logo.jpg',
-    // editLink: {
-    //   pattern:
-    //     'https://github.com/ATQQ/sugar-blog/tree/master/packages/blogpress/:path',
-    //   text: '去 GitHub 上编辑内容'
-    // },
+    editLink: {
+      pattern:
+        'https://github.com/liudonjun/ygking-blog/tree/master/docs/:path',
+      text: '去 GitHub 上编辑内容'
+    },
     nav: [
       // { text: '首页', link: '/' },
-      // { text: '关于作者', link: '/about' }
+      { text: '关于作者', link: '/about' },
+      {
+        text: 'tools',
+        items: [
+          {
+            text: 'pub.dev',
+            link: 'https://pub.dev/'
+          },
+          {
+            text: 'json to dart',
+            link: 'https://javiercbk.github.io/json_to_dart/'
+          },
+          {
+            text: 'tinify',
+            link: 'https://tinify.cn/'
+          },
+          {
+            text: 'remove bg',
+            link: 'https://www.remove.bg/zh'
+          },
+          {
+            text: 'uupoop',
+            link: 'https://www.uupoop.com/#/'
+          }
+        ]
+      },
     ],
     socialLinks: [
       {

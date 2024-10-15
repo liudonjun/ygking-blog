@@ -31,6 +31,7 @@ const blogTheme = getThemeConfig({
 
   // 页脚
   footer: {
+    version: false,
     // message 字段支持配置为HTML内容，配置多条可以配置为数组
     // message: '下面 的内容和图标都是可以修改的噢（当然本条内容也是可以隐藏的）',
     copyright: 'MIT License | YGKing',
@@ -59,20 +60,20 @@ const blogTheme = getThemeConfig({
     //     'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
     //   url: 'https://sugarat.top',
     // },
-    // {
-    //   nickname: 'Vitepress',
-    //   des: 'Vite & Vue Powered Static Site Generator',
-    //   avatar:
-    //     'https://vitepress.dev/vitepress-logo-large.webp',
-    //   url: 'https://vitepress.dev/',
-    // },
+    {
+      nickname: 'Vitepress',
+      des: 'Vite & Vue Powered Static Site Generator',
+      avatar:
+        'https://vitepress.dev/vitepress-logo-large.webp',
+      url: 'https://vitepress.dev/',
+    },
   ],
 
   buttonAfterArticle: {
     openTitle: '赞赏',
     closeTitle: '下次一定',
     content: '<img src="https://ldjun-nest.oss-cn-shenzhen.aliyuncs.com/pay.jpg">',
-    icon: 'aliPay'
+    icon: 'wechatPay'
   },
 
   comment: {
