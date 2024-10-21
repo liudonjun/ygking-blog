@@ -1,10 +1,10 @@
 ---
 title: Flutter 实现应用内更新
 description: 在移动应用开发中，定期为用户提供更新以修复 bug 或添加新功能是非常重要的。而在用户体验上，应用内更新无疑能让用户在不离开应用的情况下完成更新操作，从而提升用户的留存率。本文将详细介绍如何在 Flutter 中实现应用内更新的功能。
+sticky: 3
 tag:
  - Flutter
  - 更新
-top: 2
 sidebar: true
 ---
 

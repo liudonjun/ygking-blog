@@ -26,7 +26,7 @@ export default defineConfig({
     // ['link', { rel: 'icon', href: `${base}favicon.ico` }], // 修改了 base 这里也需要同步修改
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
-  vite:{
+  vite: {
     plugins: [
       La51Plugin({
         id: '3JzYYf32HFpoNV8h',
@@ -53,10 +53,9 @@ export default defineConfig({
       text: '去 GitHub 上编辑内容'
     },
     nav: [
-      // { text: '首页', link: '/' },
-      // { text: '关于作者', link: '/about' },
+      { text: '首页', link: '/' },
       {
-        text: 'tools',
+        text: '工具',
         items: [
           {
             text: 'pub.dev',
@@ -80,6 +79,7 @@ export default defineConfig({
           }
         ]
       },
+      { text: '留言板', link: '/msgboard' },
     ],
     socialLinks: [
       {

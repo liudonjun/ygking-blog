@@ -1,10 +1,9 @@
 ---
 description: Dart 是由 Google 开发的一种开源、通用的编程语言，最早用于构建 Web 应用程序，现已广泛用于跨平台移动应用开发，尤其是与 Flutter 框架结合使用。
-sticky: 999
 tag:
  - Dart
  - 基础
-# top: 1
+sticky: 1
 sidebar: true
 ---
 

@@ -31,14 +31,14 @@ const blogTheme = getThemeConfig({
 
   // 页脚
   footer: {
-    version: false,
+    // version: false,
     // message 字段支持配置为HTML内容，配置多条可以配置为数组
     // message: '下面 的内容和图标都是可以修改的噢（当然本条内容也是可以隐藏的）',
-    copyright: 'MIT License | YGKing',
-    // icpRecord: {
-    //   name: '蜀ICP备19011724号',
-    //   link: 'https://beian.miit.gov.cn/'
-    // },
+    copyright: 'Blog Created by YGKing | 2018-2024',
+    icpRecord: {
+      name: '湘ICP备2020023751号-1',
+      link: 'https://beian.miit.gov.cn/'
+    },
     // securityRecord: {
     //   name: '公网安备xxxxx',
     //   link: 'https://www.beian.gov.cn/portal/index.do'
@@ -53,20 +53,20 @@ const blogTheme = getThemeConfig({
 
   // 友链
   friend: [
-    // {
-    //   nickname: 'Mrack',
-    //   des: '你的指尖用于改变世界的力量',
-    //   avatar:
-    //     'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
-    //   url: 'https://sugarat.top',
-    // },
     {
-      nickname: 'Vitepress',
-      des: 'Vite & Vue Powered Static Site Generator',
+      nickname: 'Mrack',
+      des: "Mrack's Blog",
       avatar:
-        'https://vitepress.dev/vitepress-logo-large.webp',
-      url: 'https://vitepress.dev/',
+        'https://blog.mrack.cn/img/tx.jpg',
+      url: 'https://blog.mrack.cn/',
     },
+    // {
+    //   nickname: 'Vitepress',
+    //   des: 'Vite & Vue Powered Static Site Generator',
+    //   avatar:
+    //     'https://vitepress.dev/vitepress-logo-large.webp',
+    //   url: 'https://vitepress.dev/',
+    // },
   ],
 
   buttonAfterArticle: {
