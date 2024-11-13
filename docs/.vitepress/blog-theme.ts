@@ -52,14 +52,14 @@ const blogTheme = getThemeConfig({
   author: 'YGKing',
 
   // 友链
-  friend: [
-    {
-      nickname: 'Mrack',
-      des: "Mrack's Blog",
-      avatar:
-        'https://blog.mrack.cn/img/tx.jpg',
-      url: 'https://blog.mrack.cn/',
-    },
+  // friend: [
+    // {
+    //   nickname: 'Mrack',
+    //   des: "Mrack's Blog",
+    //   avatar:
+    //     'https://blog.mrack.cn/img/tx.jpg',
+    //   url: 'https://blog.mrack.cn/',
+    // },
     // {
     //   nickname: 'Vitepress',
     //   des: 'Vite & Vue Powered Static Site Generator',
@@ -67,7 +67,7 @@ const blogTheme = getThemeConfig({
     //     'https://vitepress.dev/vitepress-logo-large.webp',
     //   url: 'https://vitepress.dev/',
     // },
-  ],
+  // ],
 
   buttonAfterArticle: {
     openTitle: '赞赏',
