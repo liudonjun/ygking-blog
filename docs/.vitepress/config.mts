@@ -79,6 +79,14 @@ export default defineConfig({
           }
         ]
       },
+      { 
+        text: '作品', items: [
+          {
+            text: 'wallpaper',
+            link: 'http://wallpaper.ygking.cn/'
+          }
+        ]
+      },
       { text: '留言板', link: '/msgboard' },
     ],
     socialLinks: [
