@@ -62,10 +62,6 @@ export default defineConfig({
             link: 'https://pub.dev/'
           },
           {
-            text: 'json to dart',
-            link: 'https://javiercbk.github.io/json_to_dart/'
-          },
-          {
             text: 'tinify',
             link: 'https://tinify.cn/'
           },
@@ -79,7 +75,7 @@ export default defineConfig({
           }
         ]
       },
-      { 
+      {
         text: '作品', items: [
           {
             text: 'wallpaper',
@@ -92,7 +88,11 @@ export default defineConfig({
           {
             text: 'YGking mobile ui',
             link: 'http://mobile.ygking.cn/'
-          }
+          },
+          {
+            text: 'json to dart',
+            link: 'https://model.ygking.cn/'
+          },
         ]
       },
       { text: '留言板', link: '/msgboard' },
