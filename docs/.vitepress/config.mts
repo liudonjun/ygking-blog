@@ -82,14 +82,6 @@ export default defineConfig({
             link: 'http://wallpaper.ygking.cn/'
           },
           {
-            text: 'YGking design',
-            link: 'http://design.ygking.cn/'
-          },
-          {
-            text: 'YGking mobile ui',
-            link: 'http://mobile.ygking.cn/'
-          },
-          {
             text: 'json to dart',
             link: 'https://model.ygking.cn/'
           },
