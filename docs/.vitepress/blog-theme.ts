@@ -52,7 +52,7 @@ const blogTheme = getThemeConfig({
   author: 'YGKing',
 
   // 友链
-  // friend: [
+  friend: [
     // {
     //   nickname: 'Mrack',
     //   des: "Mrack's Blog",
@@ -60,6 +60,13 @@ const blogTheme = getThemeConfig({
     //     'https://blog.mrack.cn/img/tx.jpg',
     //   url: 'https://blog.mrack.cn/',
     // },
+    {
+      nickname: '随风',
+      des: "随风's Blog",
+      avatar:
+        'https://blog.suifeng1.cn/logo.png',
+      url: 'https://blog.suifeng1.cn/',
+    },
     // {
     //   nickname: 'Vitepress',
     //   des: 'Vite & Vue Powered Static Site Generator',
@@ -67,7 +74,7 @@ const blogTheme = getThemeConfig({
     //     'https://vitepress.dev/vitepress-logo-large.webp',
     //   url: 'https://vitepress.dev/',
     // },
-  // ],
+  ],
 
   buttonAfterArticle: {
     openTitle: '赞赏',
@@ -82,42 +89,42 @@ const blogTheme = getThemeConfig({
     category: 'Announcements',
     categoryId: 'DIC_kwDOMxPqFs4CjVuR',
     inputPosition: 'top',
-  }
+  },
 
   // 公告
-  // popover: {
-  //   title: '公告',
-  //   body: [
-  //     { type: 'text', content: '👇公众号👇---👇 微信 👇' },
-  //     {
-  //       type: 'image',
-  //       src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210~fmt.webp'
-  //     },
-  //     {
-  //       type: 'text',
-  //       content: '欢迎大家加群&私信交流'
-  //     },
-  //     {
-  //       type: 'text',
-  //       content: '文章首/文尾有群二维码',
-  //       style: 'padding-top:0'
-  //     },
-  //     {
-  //       type: 'button',
-  //       content: '作者博客',
-  //       link: 'https://sugarat.top'
-  //     },
-  //     {
-  //       type: 'button',
-  //       content: '加群交流',
-  //       props: {
-  //         type: 'success'
-  //       },
-  //       link: 'https://theme.sugarat.top/group.html',
-  //     }
-  //   ],
-  //   duration: 0
-  // },
+  popover: {
+    title: '公告',
+    body: [
+      { type: 'text', content: '👇欢迎大家关注公众号&私信交流👇' },
+      {
+        type: 'image',
+        src: '/mini-geek.png'
+      },
+      // {
+      //   type: 'text',
+      //   content: '欢迎大家关注公众号&私信交流'
+      // },
+      // {
+      //   type: 'text',
+      //   content: '文章首/文尾有群二维码',
+      //   style: 'padding-top:0'
+      // },
+      // {
+      //   type: 'button',
+      //   content: '作者博客',
+      //   link: 'https://sugarat.top'
+      // },
+      // {
+      //   type: 'button',
+      //   content: '加群交流',
+      //   props: {
+      //     type: 'success'
+      //   },
+      //   link: 'https://theme.sugarat.top/group.html',
+      // }
+    ],
+    duration: 0
+  },
 })
 
 export { blogTheme }
