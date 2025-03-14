@@ -23,6 +23,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { 'http-equiv': 'Content-Type', content: 'text/html;charset=gb2312' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-2BEYQl0Izf' }],
     ['meta', { name: 'msvalidate.01', content: '94C3F93FA347A05C86B2F46328D8F1A4' }],
     ['meta', { name: 'sogou_site_verification', content: 'EFlcWp0ITr' }],
