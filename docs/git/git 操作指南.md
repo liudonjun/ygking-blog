@@ -2,7 +2,7 @@
 title: git 基础教程
 date: 2022/04/25
 tags:
-  - git
+  - Git
 categories:
   - 基础
 ---
