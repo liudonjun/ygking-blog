@@ -1,2 +1,66 @@
 User-agent: *
 Allow: /
+Sitemap: https://ygking.cn/sitemap.xml
+Crawl-delay: 10
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+# Google Mobile
+User-agent: Googlebot-Mobile
+Allow: /
+Crawl-delay: 5
+
+# Google Images
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 5
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 8
+
+# Bing Mobile
+User-agent: BingPreview
+Allow: /
+Crawl-delay: 8
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 10
+
+# Baidu Mobile
+User-agent: Baiduspider-mobile
+Allow: /
+Crawl-delay: 10
+
+# Sogou
+User-agent: Sogou spider
+Allow: /
+Crawl-delay: 10
+
+# 360
+User-agent: 360Spider
+Allow: /
+Crawl-delay: 10
+
+# Yandex
+User-agent: Yandex
+Allow: /
+Crawl-delay: 10
+
+# File Type Rules
+User-agent: *
+Disallow: /*.json$
+Disallow: /*.xml$
+Allow: /sitemap.xml
+
+# Directory Rules
+User-agent: *
+Disallow: /private/
+Disallow: /temp/
+Disallow: /draft/

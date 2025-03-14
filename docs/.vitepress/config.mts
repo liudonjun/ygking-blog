@@ -18,14 +18,36 @@ export default defineConfig({
   // base,
   lang: 'zh-cn',
   title: 'YGKing',
-  description: '',
+  description: '一个专注于Flutter、Dart和前端技术分享的个人博客',
   lastUpdated: true,
-  // 详见：https://vitepress.dev/zh/reference/site-config#head
   head: [
-    // 配置网站的图标（显示在浏览器的 tab 上）
-    // ['link', { rel: 'icon', href: `${base}favicon.ico` }], // 修改了 base 这里也需要同步修改
-    ['link', { rel: 'icon', href: '/favicon.ico' },],
-    ['meta', { name: 'baidu-site-verification', content: 'codeva-2BEYQl0Izf' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-2BEYQl0Izf' }],
+    ['meta', { name: 'keywords', content: 'Flutter,Dart,前端开发,技术博客,YGKing,移动应用开发,跨平台开发,软件工程' }],
+    ['meta', { name: 'author', content: 'YGKing' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['link', { rel: 'canonical', href: 'https://ygking.cn' }],
+    ['meta', { property: 'og:title', content: 'YGKing的个人博客' }],
+    ['meta', { property: 'og:description', content: '一个专注于Flutter、Dart和前端技术分享的个人博客，提供移动应用开发、跨平台开发等技术分享' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:url', content: 'https://ygking.cn' }],
+    ['meta', { property: 'og:image', content: '/logo.jpg' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'YGKing的个人博客' }],
+    ['meta', { name: 'twitter:description', content: '一个专注于Flutter、Dart和前端技术分享的个人博客，提供移动应用开发、跨平台开发等技术分享' }],
+    ['meta', { name: 'twitter:image', content: '/logo.jpg' }],
+    ['script', { type: 'application/ld+json' }, `{
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "YGKing的个人博客",
+      "description": "一个专注于Flutter、Dart和前端技术分享的个人博客",
+      "url": "https://ygking.cn",
+      "author": {
+        "@type": "Person",
+        "name": "YGKing"
+      }
+    }`]
   ],
   vite: {
     plugins: [
