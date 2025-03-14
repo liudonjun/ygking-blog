@@ -23,9 +23,9 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
-    ['meta', { 'http-equiv': 'Content-Type', content: 'text/html;charset=gb2312' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-2BEYQl0Izf' }],
     ['meta', { name: 'msvalidate.01', content: '94C3F93FA347A05C86B2F46328D8F1A4' }],
+    ['meta', { 'http-equiv': 'Content-Type', content: 'text/html;charset=gb2312' }],
     ['meta', { name: 'sogou_site_verification', content: 'EFlcWp0ITr' }],
     ['meta', { name: 'bytedance-verification-code', content: '3CuOfmNim2orEW8D6w1C' }],
     ['meta', { name: '360-site-verification', content: 'd6d1d97c9ea6c907c0007bf42e6d1577' }],
