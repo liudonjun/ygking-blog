@@ -25,6 +25,7 @@ export default defineConfig({
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-2BEYQl0Izf' }],
     ['meta', { name: 'msvalidate.01', content: '94C3F93FA347A05C86B2F46328D8F1A4' }],
+    ['meta', { name: 'sogou_site_verification', content: 'EFlcWp0ITr' }],
     ['meta', { name: 'keywords', content: 'Flutter,Dart,前端开发,技术博客,YGKing,移动应用开发,跨平台开发,软件工程' }],
     ['meta', { name: 'author', content: 'YGKing' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
