@@ -137,4 +137,5 @@ date: 2022/04/25
 - [Flutter 实现widget 截图](https://ygking.cn/flutter/Flutter%20%E5%AE%9E%E7%8E%B0widget%20%E6%88%AA%E5%9B%BE.html)
 - [Flutter 实现应用内更新](https://ygking.cn/flutter/Flutter%20%E5%AE%9E%E7%8E%B0%E5%BA%94%E7%94%A8%E5%86%85%E6%9B%B4%E6%96%B0.html)
 - [Flutter 实现自定义时间选择器](https://ygking.cn/flutter/Flutter%20%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8.html#flutter-%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8)
+- [Flutter集成微信SDK](https://ygking.cn/flutter/Flutter集成微信SDK.html)
 
