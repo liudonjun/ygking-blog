@@ -31,10 +31,15 @@ const blogTheme = getThemeConfig({
 
   // 页脚
   footer: {
-    version: true,
+    version: false,
     // message 字段支持配置为HTML内容，配置多条可以配置为数组
     // message: '下面 的内容和图标都是可以修改的噢（当然本条内容也是可以隐藏的）',
-    copyright: 'Copyright (c) 2018-present, YGKing',
+    message: [  // 使用数组实现多条消息轮播或展示
+      `<div style="text-align:center;">
+         🎉 感谢您的访问！ 欢迎订阅我的最新内容。
+       </div>`
+    ],
+    copyright: `Copyright YGKing 2022 - ${new Date().getFullYear()}`,
     icpRecord: {
       name: '湘ICP备2020023751号-1',
       link: 'https://beian.miit.gov.cn/'
@@ -77,7 +82,7 @@ const blogTheme = getThemeConfig({
   ],
 
   buttonAfterArticle: {
-    openTitle: '赞赏',
+    openTitle: '投"币"支持',
     closeTitle: '下次一定',
     content: '<img src="https://ldjun-nest.oss-cn-shenzhen.aliyuncs.com/pay.jpg">',
     icon: 'wechatPay'
