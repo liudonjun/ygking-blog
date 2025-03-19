@@ -27,7 +27,7 @@ export default defineConfig({
     ['meta', { name: 'msvalidate.01', content: '94C3F93FA347A05C86B2F46328D8F1A4' }],
     ['meta', { 'http-equiv': 'Content-Type', content: 'text/html;charset=gb2312' }],
     ['meta', { name: 'sogou_site_verification', content: 'EFlcWp0ITr' }],
-    ['meta', { name: 'shenma-site-verification', content: '6dbb8595e0cf10ac2b313c2729ed8f16_1741936587' }],
+    ['meta', { name: 'shenma-site-verification', content: '6dbb8595e0cf10ac2b313c2729ed8f16_1742351733' }],
     ['meta', { name: 'bytedance-verification-code', content: '3CuOfmNim2orEW8D6w1C' }],
     ['meta', { name: '360-site-verification', content: 'd6d1d97c9ea6c907c0007bf42e6d1577' }],
     ['meta', { name: 'keywords', content: 'Flutter,Dart,前端开发,技术博客,YGKing,移动应用开发,跨平台开发,软件工程' }],
