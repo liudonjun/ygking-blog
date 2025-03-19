@@ -43,6 +43,11 @@ export default defineConfig({
     ['meta', { name: 'twitter:title', content: 'YGKing的个人博客' }],
     ['meta', { name: 'twitter:description', content: '一个专注于Flutter、Dart和前端技术分享的个人博客，提供移动应用开发、跨平台开发等技术分享' }],
     ['meta', { name: 'twitter:image', content: '/logo.jpg' }],
+    ['script', {
+      async: 'async',
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9698370041410113',
+      crossorigin: 'anonymous'
+    }],
     ['script', { type: 'application/ld+json' }, `{
       "@context": "https://schema.org",
       "@type": "WebSite",
