@@ -1,0 +1,8 @@
+[build]
+  command = "pnpm run build"
+  publish = "docs/.vitepress/dist"  # 或者你希望的目录
+
+[build.environment]
+  LANG = "zh_CN.UTF-8"
+  LC_ALL = "zh_CN.UTF-8"
+  LC_CTYPE = "zh_CN.UTF-8"
