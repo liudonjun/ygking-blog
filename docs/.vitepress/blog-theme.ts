@@ -2,23 +2,23 @@
 import { getThemeConfig } from '@sugarat/theme/node'
 
 // 开启RSS支持（RSS配置）
-import type { Theme } from '@sugarat/theme'
+// import type { Theme } from '@sugarat/theme'
 
-const baseUrl = 'https://ygking.cn'
-const RSS: Theme.RSSOptions = {
-  title: 'YGKing',
-  baseUrl,
-  copyright: 'Copyright (c) 2018-present, YGKing',
-  description: '一个专注于Flutter、Dart和前端技术分享的个人博客',
-  language: 'zh-cn',
-  image: 'https://ygking.cn/logo.jpg',
-  favicon: 'https://ygking.cn/favicon.ico',
-}
+// const baseUrl = 'https://ygking.cn'
+// const RSS: Theme.RSSOptions = {
+//   title: 'YGKing',
+//   baseUrl,
+//   copyright: 'Copyright (c) 2018-present, YGKing',
+//   description: '一个专注于Flutter、Dart和前端技术分享的个人博客',
+//   language: 'zh-cn',
+//   image: 'https://ygking.cn/logo.jpg',
+//   favicon: 'https://ygking.cn/favicon.ico',
+// }
 
 // 所有配置项，详见文档: https://theme.sugarat.top/
 const blogTheme = getThemeConfig({
   // 开启RSS支持
-  RSS,
+  // RSS,
 
   // 搜索
   // 默认开启pagefind离线的全文搜索支持（如使用其它的可以设置为false）
