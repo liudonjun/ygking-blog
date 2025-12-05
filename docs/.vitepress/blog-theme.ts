@@ -39,7 +39,7 @@ const blogTheme = getThemeConfig({
          🎉 感谢您的访问！ 欢迎订阅我的最新内容。
        </div>`
     ],
-    copyright: `Copyright YGKing 2022 - ${new Date().getFullYear()}`,
+    copyright: `Copyright YGJoon 2022 - ${new Date().getFullYear()}`,
     icpRecord: {
       name: '湘ICP备2020023751号-1',
       link: 'https://beian.miit.gov.cn/'
