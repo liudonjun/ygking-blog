@@ -54,7 +54,7 @@ const blogTheme = getThemeConfig({
   themeColor: 'el-blue',
 
   // 文章默认作者
-  author: 'YGKing',
+  author: 'YGJoon',
 
   // 友链
   friend: [
