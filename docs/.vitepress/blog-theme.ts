@@ -88,13 +88,13 @@ const blogTheme = getThemeConfig({
     icon: 'wechatPay'
   },
 
-  // comment: {
-  //   repo: 'liudonjun/ygking-blog',
-  //   repoId: 'R_kgDOMxPqFg',
-  //   category: 'Announcements',
-  //   categoryId: 'DIC_kwDOMxPqFs4CjVuR',
-  //   inputPosition: 'top',
-  // },
+  comment: {
+    repo: 'liudonjun/ygking-blog',
+    repoId: 'R_kgDOMxPqFg',
+    category: 'Announcements',
+    categoryId: 'DIC_kwDOMxPqFs4CjVuR',
+    inputPosition: 'top',
+  },
 
   // 公告
   popover: {

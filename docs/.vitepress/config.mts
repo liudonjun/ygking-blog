@@ -17,7 +17,7 @@ export default defineConfig({
   extends: blogTheme,
   // base,
   lang: 'zh-cn',
-  title: 'YGKing',
+  title: 'YGJoon',
   description: '一个专注于Flutter、Dart和前端技术分享的个人博客',
   lastUpdated: true,
   head: [
@@ -122,7 +122,7 @@ export default defineConfig({
         ]
       },
       // { text: '网站地图', link: '/sitemap' },
-      // { text: '留言板', link: '/msgboard' },
+      { text: '留言板', link: '/msgboard' },
     ],
     socialLinks: [
       {
