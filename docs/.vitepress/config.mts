@@ -30,17 +30,17 @@ export default defineConfig({
     ['meta', { name: 'shenma-site-verification', content: '6dbb8595e0cf10ac2b313c2729ed8f16_1742351733' }],
     ['meta', { name: 'bytedance-verification-code', content: '3CuOfmNim2orEW8D6w1C' }],
     ['meta', { name: '360-site-verification', content: 'd6d1d97c9ea6c907c0007bf42e6d1577' }],
-    ['meta', { name: 'keywords', content: 'Flutter,Dart,前端开发,技术博客,YGKing,移动应用开发,跨平台开发,软件工程' }],
-    ['meta', { name: 'author', content: 'YGKing' }],
+    ['meta', { name: 'keywords', content: 'Flutter,Dart,前端开发,技术博客,YGJoon,移动应用开发,跨平台开发,软件工程' }],
+    ['meta', { name: 'author', content: 'YGJoon' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
-    ['link', { rel: 'canonical', href: 'https://ygking.cn' }],
-    ['meta', { property: 'og:title', content: 'YGKing的个人博客' }],
+    ['link', { rel: 'canonical', href: 'https://blog.ygjoon.cn' }],
+    ['meta', { property: 'og:title', content: 'YGJoon' }],
     ['meta', { property: 'og:description', content: '一个专注于Flutter、Dart和前端技术分享的个人博客，提供移动应用开发、跨平台开发等技术分享' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://ygking.cn' }],
+    ['meta', { property: 'og:url', content: 'https://blog.ygjoon.cn' }],
     ['meta', { property: 'og:image', content: '/logo.jpg' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'YGKing的个人博客' }],
+    ['meta', { name: 'twitter:title', content: 'YGJoon' }],
     ['meta', { name: 'twitter:description', content: '一个专注于Flutter、Dart和前端技术分享的个人博客，提供移动应用开发、跨平台开发等技术分享' }],
     ['meta', { name: 'twitter:image', content: '/logo.jpg' }],
     ['script', {
@@ -51,12 +51,12 @@ export default defineConfig({
     ['script', { type: 'application/ld+json' }, `{
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "YGKing的个人博客",
+      "name": "YGJoon的个人博客",
       "description": "一个专注于Flutter、Dart和前端技术分享的个人博客",
-      "url": "https://ygking.cn",
+      "url": "https://blog.ygjoon.cn",
       "author": {
         "@type": "Person",
-        "name": "YGKing"
+        "name": "YGJoon"
       }
     }`]
   ],
