@@ -241,6 +241,156 @@ iOS 平台需要在 Info.plist 中添加权限说明：
 </dict>
 ```
 
+iOS 平台还需要在 Podfile 中添加权限相关的依赖：
+
+```ruby
+# ios/Podfile
+platform :ios, '12.0'
+
+target 'Runner' do
+  use_frameworks!
+  use_modular_headers!
+
+  flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+
+  # 权限相关依赖
+  pod 'Permission-Camera', :path => '../node_modules/react-native-permissions/ios/Camera.podspec'
+  pod 'Permission-Microphone', :path => '../node_modules/react-native-permissions/ios/Microphone.podspec'
+  pod 'Permission-Photos', :path => '../node_modules/react-native-permissions/ios/Photos.podspec'
+  pod 'Permission-Location', :path => '../node_modules/react-native-permissions/ios/Location.podspec'
+  pod 'Permission-Contacts', :path => '../node_modules/react-native-permissions/ios/Contacts.podspec'
+  pod 'Permission-Calendars', :path => '../node_modules/react-native-permissions/ios/Calendars.podspec'
+  pod 'Permission-Reminders', :path => '../node_modules/react-native-permissions/ios/Reminders.podspec'
+  pod 'Permission-Speech', :path => '../node_modules/react-native-permissions/ios/Speech.podspec'
+  pod 'Permission-Bluetooth', :path => '../node_modules/react-native-permissions/ios/Bluetooth.podspec'
+  pod 'Permission-Health', :path => '../node_modules/react-native-permissions/ios/Health.podspec'
+  pod 'Permission-HomeKit', :path => '../node_modules/react-native-permissions/ios/HomeKit.podspec'
+  pod 'Permission-Motion', :path => '../node_modules/react-native-permissions/ios/Motion.podspec'
+  pod 'Permission-MediaLibrary', :path => '../node_modules/react-native-permissions/ios/MediaLibrary.podspec'
+  pod 'Permission-Notifications', :path => '../node_modules/react-native-permissions/ios/Notifications.podspec'
+
+  # iOS 14+ 特殊权限
+  pod 'Permission-AppTrackingTransparency', :path => '../node_modules/react-native-permissions/ios/AppTrackingTransparency.podspec'
+
+  # 本地网络权限 (iOS 14+)
+  pod 'Permission-LocalNetwork', :path => '../node_modules/react-native-permissions/ios/LocalNetwork.podspec'
+
+  target 'RunnerTests' do
+    inherit! :search_paths
+  end
+end
+
+# 后安装脚本，用于配置权限
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '12.0'
+
+      # 配置权限相关设置
+      if target.name.start_with?('Permission-')
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= ['$(inherited)']
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CAMERA=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_MICROPHONE=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_PHOTOS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_LOCATION=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CONTACTS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CALENDARS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_REMINDERS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_SPEECH=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_BLUETOOTH=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_HEALTH=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_HOMEKIT=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_MOTION=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_MEDIA_LIBRARY=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_NOTIFICATIONS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_APP_TRACKING_TRANSPARENCY=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_LOCAL_NETWORK=1'
+      end
+    end
+  end
+end
+```
+
+对于使用 Flutter 的项目，Podfile 配置应该如下：
+
+```ruby
+# ios/Podfile
+platform :ios, '12.0'
+
+# CocoaPods analytics sends network requests to Google Analytics
+# To disable this, uncomment the following line
+# ENV['COCOAPODS_DISABLE_STATS'] = 'true'
+
+# Prevent CocoaPods from generating a Pods.xcodeproj with Xcode 12+.
+install! 'cocoapods', :deterministic_uuids => false
+
+target 'Runner' do
+  use_frameworks!
+  use_modular_headers!
+
+  flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+
+  # 权限相关配置
+  pod 'permission_handler', :path => '../.symlinks/plugins/permission_handler/ios'
+
+  # 如果需要特定权限的额外配置
+  # pod 'AppTrackingTransparency', '~> 2.0'  # iOS 14+ 广告追踪权限
+  # pod 'CoreBluetooth', '~> 1.0'            # 蓝牙权限
+  # pod 'CoreLocation', '~> 1.0'              # 位置权限
+  # pod 'AVFoundation', '~> 1.0'             # 相机和麦克风权限
+  # pod 'Photos', '~> 1.0'                    # 相册权限
+  # pod 'Contacts', '~> 1.0'                  # 联系人权限
+  # pod 'EventKit', '~> 1.0'                   # 日历和提醒权限
+  # pod 'Speech', '~> 1.0'                    # 语音识别权限
+  # pod 'HealthKit', '~> 1.0'                 # 健康数据权限
+  # pod 'HomeKit', '~> 1.0'                   # HomeKit权限
+  # pod 'CoreMotion', '~> 1.0'                 # 运动数据权限
+  # pod 'MediaPlayer', '~> 1.0'               # 媒体库权限
+  # pod 'UserNotifications', '~> 1.0'         # 通知权限
+
+  target 'RunnerTests' do
+    inherit! :search_paths
+  end
+end
+
+# 后安装脚本，用于配置权限和构建设置
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      # 设置最低部署目标版本
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '12.0'
+
+      # 配置权限相关设置
+      case target.name
+      when 'permission_handler'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] ||= ['$(inherited)']
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CAMERA=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_MICROPHONE=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_PHOTOS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_LOCATION=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CONTACTS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CALENDARS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_REMINDERS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_SPEECH=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_BLUETOOTH=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_HEALTH=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_HOMEKIT=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_MOTION=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_MEDIA_LIBRARY=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_NOTIFICATIONS=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_APP_TRACKING_TRANSPARENCY=1'
+        config.build_settings['GCC_PREPROCESSOR_DEFINITIONS'] << 'PERMISSION_CRITICAL_ALERTS=1'
+      end
+
+      # 修复 Xcode 14+ 的构建问题
+      if config.build_settings['WRAPPER_EXTENSION'] == 'bundle'
+        config.build_settings['DEVELOPMENT_TEAM'] = 'YourTeamID'
+      end
+    end
+  end
+end
+```
+
 ### 第二步：创建权限数据模型
 
 ```dart
