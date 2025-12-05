@@ -121,8 +121,8 @@ export default defineConfig({
           },
         ]
       },
-      { text: '网站地图', link: '/sitemap' },
-      { text: '留言板', link: '/msgboard' },
+      // { text: '网站地图', link: '/sitemap' },
+      // { text: '留言板', link: '/msgboard' },
     ],
     socialLinks: [
       {
