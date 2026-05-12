@@ -211,8 +211,8 @@ class ElectricCar extends Car implements Electric {
 }
 
 // 自动驾驶电动车
-class AutoonomousElectricCar extends ElectricCar implements Autonomous {
-  AutoonomousElectricCar(
+class AutonomousElectricCar extends ElectricCar implements Autonomous {
+  AutonomousElectricCar(
     String brand,
     String model,
     int seats,
@@ -229,7 +229,7 @@ void main() {
   // 创建不同类型的车辆
   Car regularCar = Car('Toyota', 'Camry', 5);
   ElectricCar tesla = ElectricCar('Tesla', 'Model 3', 5, 75);
-  AutoonomousElectricCar waymo = AutoonomousElectricCar('Waymo', 'One', 4, 100);
+  AutonomousElectricCar waymo = AutonomousElectricCar('Waymo', 'One', 4, 100);
   
   // 使用多态
   List<Vehicle> vehicles = [regularCar, tesla, waymo];
