@@ -1,6 +1,8 @@
 ---
 title: Flutter 工程化：CI/CD 自动化发布实践
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 工程化：CI/CD 自动化发布实践

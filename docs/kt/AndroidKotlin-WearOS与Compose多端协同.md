@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Wear OS 与 Compose 多端协同
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Wear OS 与 Compose 多端协同
 

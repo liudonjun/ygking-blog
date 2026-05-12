@@ -1,6 +1,8 @@
 ---
 title: Flutter 鸿蒙化实战：HarmonyOS 2 基础适配
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 鸿蒙化实战：HarmonyOS 2 基础适配

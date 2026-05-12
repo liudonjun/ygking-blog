@@ -1,6 +1,8 @@
 ---
 title: Flutter 单元测试详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 单元测试详解

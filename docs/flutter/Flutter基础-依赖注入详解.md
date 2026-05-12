@@ -1,6 +1,8 @@
 ---
 title: Flutter 依赖注入详解
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 依赖注入详解
 

@@ -1,6 +1,8 @@
 ---
 title: Flutter 与桌面平台桥接
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 与桌面平台桥接
 

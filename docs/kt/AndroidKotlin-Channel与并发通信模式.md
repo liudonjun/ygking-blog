@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Channel 与并发通信模式
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Channel 与并发通信模式
 

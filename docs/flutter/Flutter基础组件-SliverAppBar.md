@@ -1,6 +1,8 @@
 ---
 title: Flutter SliverAppBar 组件详解
 date: 2024-11-12
+categories:
+  - Flutter
 ---
 
 # Flutter SliverAppBar 组件详解

@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 日志监控与可观测性
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 日志监控与可观测性
 

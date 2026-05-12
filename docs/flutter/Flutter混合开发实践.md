@@ -1,6 +1,8 @@
 ---
 title: Flutter混合开发实践
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter混合开发实践
 

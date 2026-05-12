@@ -1,6 +1,8 @@
 ---
 title: Flutter 与联系人管理桥接技术详解
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 
 # Flutter 与联系人管理桥接技术详解

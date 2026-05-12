@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Flow 数据流与状态管理
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Flow 数据流与状态管理
 

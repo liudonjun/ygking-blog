@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 架构组件与多模块协同
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 架构组件与多模块协同
 

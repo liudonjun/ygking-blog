@@ -1,6 +1,8 @@
 ---
 title: Flutter 多线程和并发编程
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 多线程和并发编程
 

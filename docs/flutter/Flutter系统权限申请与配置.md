@@ -1,6 +1,8 @@
 ---
 title: Flutter 系统权限申请与配置详解
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 
 # Flutter 系统权限申请与配置详解

@@ -1,6 +1,8 @@
 ---
 title: Flutter SliverList 组件详解
 date: 2024-11-12
+categories:
+  - Flutter
 ---
 
 # Flutter SliverList 组件详解

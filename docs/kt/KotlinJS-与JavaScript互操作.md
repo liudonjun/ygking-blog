@@ -1,6 +1,9 @@
 ---
 title: Kotlin/JS 与 JavaScript 互操作
 date: 2024-09-13
+categories:
+  - Kotlin
+  - Android
 ---
 # Kotlin/JS 与 JavaScript 互操作
 

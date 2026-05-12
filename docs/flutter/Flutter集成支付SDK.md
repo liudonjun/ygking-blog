@@ -1,6 +1,8 @@
 ---
 title: Flutter集成支付SDK
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter集成支付SDK
 

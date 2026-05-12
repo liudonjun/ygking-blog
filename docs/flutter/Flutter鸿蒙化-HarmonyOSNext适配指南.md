@@ -1,6 +1,8 @@
 ---
 title: Flutter 鸿蒙化：HarmonyOS NEXT 适配指南
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 鸿蒙化：HarmonyOS NEXT 适配指南

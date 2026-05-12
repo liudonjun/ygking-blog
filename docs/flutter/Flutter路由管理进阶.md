@@ -2,10 +2,8 @@
 title: Flutter路由管理进阶
 description: 深入讲解Flutter路由拦截、路由守卫等高级特性
 date: 2024-01-09
-tags:
+categories:
   - Flutter
-  - 路由管理
-  - 最佳实践
 ---
 
 # Flutter路由管理进阶

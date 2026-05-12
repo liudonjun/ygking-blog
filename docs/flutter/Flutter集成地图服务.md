@@ -1,6 +1,8 @@
 ---
 title: Flutter集成地图服务
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter集成地图服务
 

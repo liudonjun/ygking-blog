@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Compose 动画进阶
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Compose 动画进阶
 

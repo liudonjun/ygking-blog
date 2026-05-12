@@ -1,6 +1,8 @@
 ---
 title: Flutter GetX 状态管理详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter GetX 状态管理详解

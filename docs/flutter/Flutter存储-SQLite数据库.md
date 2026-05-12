@@ -1,6 +1,8 @@
 ---
 title: Flutter SQLite 数据库详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter SQLite 数据库详解

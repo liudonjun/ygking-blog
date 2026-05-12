@@ -1,6 +1,8 @@
 ---
 title: Flutter 实现 Widget 截图并保存到本地
 date: 2024-10-14
+categories:
+  - Flutter
 ---
 
 # Flutter 实现 Widget 截图并保存到本地

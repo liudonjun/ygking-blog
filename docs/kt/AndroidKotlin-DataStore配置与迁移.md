@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin DataStore 配置与迁移
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin DataStore 配置与迁移
 

@@ -1,6 +1,8 @@
 ---
 title: Flutter Dio 网络请求详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter Dio 网络请求详解

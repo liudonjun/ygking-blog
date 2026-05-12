@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Compose Material 3 设计体系
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Compose Material 3 设计体系
 

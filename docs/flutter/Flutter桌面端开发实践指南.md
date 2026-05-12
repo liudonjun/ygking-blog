@@ -1,6 +1,8 @@
 ---
 title: Flutter 桌面端开发实践指南
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 桌面端开发实践指南

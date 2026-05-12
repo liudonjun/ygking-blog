@@ -1,6 +1,8 @@
 ---
 title: Flutter 自定义注解详解
 date: 2025-02-26
+categories:
+  - Flutter
 ---
 
 # Flutter 自定义注解详解

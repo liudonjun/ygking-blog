@@ -1,6 +1,9 @@
 ---
 title: Kotlin/JS DOM 操作与 Web API 集成
 date: 2024-09-13
+categories:
+  - Kotlin
+  - Android
 ---
 # Kotlin/JS DOM 操作与 Web API 集成
 

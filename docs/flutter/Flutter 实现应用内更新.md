@@ -1,6 +1,8 @@
 ---
 title: Flutter 实现应用内更新
 date: 2024-10-14
+categories:
+  - Flutter
 ---
 
 # Flutter 实现应用内更新

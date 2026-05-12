@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 协程在实际项目中的应用
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 协程在实际项目中的应用
 

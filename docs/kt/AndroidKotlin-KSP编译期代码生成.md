@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin KSP 编译期代码生成
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin KSP 编译期代码生成
 

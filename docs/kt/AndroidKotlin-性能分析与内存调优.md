@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 性能分析与内存调优
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 性能分析与内存调优
 

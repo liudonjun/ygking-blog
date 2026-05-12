@@ -1,6 +1,8 @@
 ---
 title: Flutter 性能监控详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 性能监控详解

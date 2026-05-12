@@ -1,6 +1,8 @@
 ---
 title: Dart 类和对象详解
 date: 2024-11-12
+categories:
+  - Dart
 ---
 
 # Dart 类和对象详解

@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 集合操作与标准库实战
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 集合操作与标准库实战
 

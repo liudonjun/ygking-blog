@@ -1,6 +1,8 @@
 ---
 title: Flutter 插件开发基础篇
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 插件开发基础篇
 

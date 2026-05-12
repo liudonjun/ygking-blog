@@ -1,6 +1,8 @@
 ---
 title: Flutter 集成穿山甲 SDK 桥接
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 集成穿山甲 SDK 桥接
 

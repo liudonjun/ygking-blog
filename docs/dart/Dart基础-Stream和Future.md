@@ -1,6 +1,8 @@
 ---
 title: Dart Stream 和 Future 详解
 date: 2024-11-13
+categories:
+  - Dart
 ---
 
 # Dart Stream 和 Future 详解

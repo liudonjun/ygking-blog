@@ -1,6 +1,8 @@
 ---
 title: Flutter IPP 协议静默打印插件开发指南
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 
 # Flutter IPP 协议静默打印插件开发指南

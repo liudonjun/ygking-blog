@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin WorkManager 后台任务策略
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin WorkManager 后台任务策略
 

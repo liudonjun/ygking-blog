@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Jetpack Compose 实战指南
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Jetpack Compose 实战指南
 

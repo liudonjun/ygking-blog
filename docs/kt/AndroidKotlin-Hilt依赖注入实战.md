@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Hilt 依赖注入实战
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Hilt 依赖注入实战
 

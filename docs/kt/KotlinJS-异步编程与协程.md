@@ -1,6 +1,9 @@
 ---
 title: Kotlin/JS 异步编程与协程
 date: 2024-09-13
+categories:
+  - Kotlin
+  - Android
 ---
 # Kotlin/JS 异步编程与协程
 

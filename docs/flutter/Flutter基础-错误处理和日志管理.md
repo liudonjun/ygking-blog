@@ -1,6 +1,8 @@
 ---
 title: Flutter 错误处理和日志管理
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 错误处理和日志管理
 

@@ -1,6 +1,8 @@
 ---
 title: Flutter 数据：离线同步与一致性实践
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 数据：离线同步与一致性实践

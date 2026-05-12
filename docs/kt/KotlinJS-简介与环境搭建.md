@@ -1,6 +1,9 @@
 ---
 title: Kotlin/JS 简介与环境搭建
 date: 2024-09-13
+categories:
+  - Kotlin
+  - Android
 ---
 # Kotlin/JS 简介与环境搭建
 

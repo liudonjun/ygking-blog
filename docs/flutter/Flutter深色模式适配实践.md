@@ -1,6 +1,8 @@
 ---
 title: Flutter深色模式适配实践
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter深色模式适配实践
 

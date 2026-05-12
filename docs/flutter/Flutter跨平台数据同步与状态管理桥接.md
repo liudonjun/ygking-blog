@@ -1,6 +1,8 @@
 ---
 title: Flutter 跨平台数据同步与状态管理桥接
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 跨平台数据同步与状态管理桥接
 

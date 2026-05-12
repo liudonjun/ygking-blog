@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 数据类型与空安全
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 数据类型与空安全
 

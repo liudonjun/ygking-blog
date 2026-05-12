@@ -1,6 +1,8 @@
 ---
 title: Flutter 鸿蒙化进阶：HarmonyOS 2 深度优化与工程实践
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 鸿蒙化进阶：HarmonyOS 2 深度优化与工程实践

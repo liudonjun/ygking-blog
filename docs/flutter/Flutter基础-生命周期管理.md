@@ -1,6 +1,8 @@
 ---
 title: Flutter 生命周期管理详解
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 生命周期管理详解
 

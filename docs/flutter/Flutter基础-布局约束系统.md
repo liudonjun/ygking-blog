@@ -1,6 +1,8 @@
 ---
 title: Flutter 布局约束系统详解
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 布局约束系统详解
 

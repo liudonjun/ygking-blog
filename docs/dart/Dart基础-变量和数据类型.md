@@ -1,6 +1,8 @@
 ---
 title: Dart 变量和数据类型详解
 date: 2024-11-12
+categories:
+  - Dart
 ---
 
 # Dart 变量和数据类型详解

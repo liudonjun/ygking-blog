@@ -1,6 +1,8 @@
 ---
 title: Flutter 与设备信息桥接技术详解
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 
 # Flutter 与设备信息桥接技术详解

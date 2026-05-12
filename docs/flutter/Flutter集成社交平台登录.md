@@ -1,6 +1,8 @@
 ---
 title: Flutter集成社交平台登录
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter集成社交平台登录
 

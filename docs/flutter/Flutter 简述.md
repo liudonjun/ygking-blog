@@ -1,6 +1,8 @@
 ---
 title: 简单了解Flutter
 date: 2024-09-14
+categories:
+  - Flutter
 ---
 
 # 为什么选择 Flutter？

@@ -1,6 +1,8 @@
 ---
 title: Flutter 插件开发高级篇
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 插件开发高级篇
 

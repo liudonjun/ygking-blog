@@ -1,6 +1,8 @@
 ---
 title: Dart 隔离区(Isolate)详解
 date: 2024-11-13
+categories:
+  - Dart
 ---
 
 # Dart 隔离区(Isolate)详解

@@ -1,6 +1,8 @@
 ---
 title: Flutter FFI 桥接技术
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter FFI 桥接技术
 

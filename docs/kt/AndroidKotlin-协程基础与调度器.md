@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 协程基础与调度器
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 协程基础与调度器
 

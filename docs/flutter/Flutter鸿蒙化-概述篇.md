@@ -1,6 +1,8 @@
 ---
 title: Flutter 鸿蒙化概述篇：从愿景到落地
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 鸿蒙化概述篇：从愿景到落地

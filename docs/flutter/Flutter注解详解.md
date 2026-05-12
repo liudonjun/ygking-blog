@@ -1,6 +1,8 @@
 ---
 title: Flutter 注解详解
 date: 2025-02-26
+categories:
+  - Flutter
 ---
 
 # Flutter 注解详解

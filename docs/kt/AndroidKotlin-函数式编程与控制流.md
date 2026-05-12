@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 函数式编程与控制流
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 函数式编程与控制流
 

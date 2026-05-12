@@ -1,6 +1,9 @@
 ---
 title: Kotlin/JS 系列文章索引
 date: 2024-09-13
+categories:
+  - Kotlin
+  - Android
 ---
 # Kotlin/JS 系列文章索引
 

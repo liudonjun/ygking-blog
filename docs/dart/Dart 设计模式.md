@@ -1,6 +1,8 @@
 ---
 title: Dart 语言中常见的设计模式
 date: 2024-09-14
+categories:
+  - Dart
 ---
 # Dart 语言中常见的设计模式
 

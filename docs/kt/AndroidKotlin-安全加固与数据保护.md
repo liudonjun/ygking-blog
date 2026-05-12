@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 安全加固与数据保护
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 安全加固与数据保护
 

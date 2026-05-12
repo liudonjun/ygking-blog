@@ -1,6 +1,8 @@
 ---
 title: Flutter 鸿蒙化：LiteOS 与 IoT 设备适配实践
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 鸿蒙化：LiteOS 与 IoT 设备适配实践

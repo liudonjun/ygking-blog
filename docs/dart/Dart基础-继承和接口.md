@@ -1,6 +1,8 @@
 ---
 title: Dart 继承和接口详解
 date: 2024-11-12
+categories:
+  - Dart
 ---
 
 # Dart 继承和接口详解

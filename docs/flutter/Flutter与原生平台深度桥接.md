@@ -1,6 +1,8 @@
 ---
 title: Flutter 与原生平台深度桥接
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 与原生平台深度桥接
 

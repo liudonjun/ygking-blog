@@ -2,9 +2,8 @@
 title: Git版本控制
 description: 详细介绍Git版本号管理、Tag使用等核心概念
 date: 2024-01-09
-tags:
+categories:
   - Git
-  - 版本控制
 ---
 
 # Git版本控制

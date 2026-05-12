@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Room 数据库进阶实践
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Room 数据库进阶实践
 

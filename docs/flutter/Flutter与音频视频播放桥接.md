@@ -1,6 +1,8 @@
 ---
 title: Flutter 与音频视频播放桥接
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 与音频视频播放桥接
 

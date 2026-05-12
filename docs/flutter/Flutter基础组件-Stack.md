@@ -1,6 +1,8 @@
 ---
 title: Flutter Stack 组件详解
 date: 2024-11-12
+categories:
+  - Flutter
 ---
 
 # Flutter Stack 组件详解

@@ -1,6 +1,8 @@
 ---
 title: Flutter 使用 Melos 管理多包项目
 date: 2025-02-26
+categories:
+  - Flutter
 ---
 
 # Flutter 使用 Melos 管理多包项目

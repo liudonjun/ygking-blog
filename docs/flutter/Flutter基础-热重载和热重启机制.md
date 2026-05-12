@@ -1,6 +1,8 @@
 ---
 title: Flutter 热重载和热重启机制
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter 热重载和热重启机制
 

@@ -1,6 +1,8 @@
 ---
 title: Dart 异步编程详解
 date: 2024-11-12
+categories:
+  - Dart
 ---
 
 # Dart 异步编程详解

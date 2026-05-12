@@ -1,6 +1,8 @@
 ---
 title: Flutter无障碍开发指南
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter无障碍开发指南
 

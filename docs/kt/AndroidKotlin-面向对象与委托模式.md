@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 面向对象与委托模式
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 面向对象与委托模式
 

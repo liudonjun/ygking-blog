@@ -1,6 +1,8 @@
 ---
 title: Dart 代码生成详解
 date: 2024-11-13
+categories:
+  - Dart
 ---
 
 # Dart 代码生成详解

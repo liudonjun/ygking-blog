@@ -1,6 +1,8 @@
 ---
 title: Flutter 安全：数据安全与加密实践
 date: 2025-11-04
+categories:
+  - Flutter
 ---
 
 # Flutter 安全：数据安全与加密实践

@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Flow 高级操作符与背压控制
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Flow 高级操作符与背压控制
 

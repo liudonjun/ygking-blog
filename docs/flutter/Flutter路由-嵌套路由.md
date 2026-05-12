@@ -1,6 +1,8 @@
 ---
 title: Flutter 嵌套路由详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 嵌套路由详解

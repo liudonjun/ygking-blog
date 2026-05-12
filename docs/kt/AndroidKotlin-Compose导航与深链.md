@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Compose 导航与深链
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Compose 导航与深链
 

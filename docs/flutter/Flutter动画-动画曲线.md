@@ -1,6 +1,8 @@
 ---
 title: Flutter 动画曲线详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 动画曲线详解

@@ -1,6 +1,8 @@
 ---
 title: Flutter 与短信电话桥接技术详解
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 
 # Flutter 与短信电话桥接技术详解

@@ -1,6 +1,8 @@
 ---
 title: Flutter Scaffold 组件详解
 date: 2024-11-12
+categories:
+  - Flutter
 ---
 
 # Flutter Scaffold 组件详解

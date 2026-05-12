@@ -1,6 +1,8 @@
 ---
 title: Flutter集成Sentry日志收集
 date: 2025-03-14
+categories:
+  - Flutter
 ---
 # Flutter集成Sentry日志收集
 

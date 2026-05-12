@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin App Startup 优化策略
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin App Startup 优化策略
 

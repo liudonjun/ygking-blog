@@ -1,6 +1,8 @@
 ---
 title: Flutter 状态管理-BLOC 实战指南
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 状态管理-BLOC 实战指南
 

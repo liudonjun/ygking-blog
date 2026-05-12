@@ -1,6 +1,8 @@
 ---
 title: Dart 函数和方法详解
 date: 2024-11-12
+categories:
+  - Dart
 ---
 
 # Dart 函数和方法详解

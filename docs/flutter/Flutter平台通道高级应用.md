@@ -1,6 +1,8 @@
 ---
 title: Flutter 平台通道高级应用
 date: 2024-09-13
+categories:
+  - Flutter
 ---
 # Flutter 平台通道高级应用
 

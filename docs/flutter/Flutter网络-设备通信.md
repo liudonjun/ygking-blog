@@ -1,6 +1,8 @@
 ---
 title: Flutter 设备通信详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 设备通信详解

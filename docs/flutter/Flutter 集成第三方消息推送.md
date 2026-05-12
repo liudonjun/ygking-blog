@@ -1,6 +1,8 @@
 ---
 title: Flutter 集成友盟消息推送
 date: 2024-11-02
+categories:
+  - Flutter
 ---
 
 # Flutter 集成友盟消息推送

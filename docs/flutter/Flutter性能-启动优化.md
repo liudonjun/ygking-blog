@@ -1,6 +1,8 @@
 ---
 title: Flutter 启动优化详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 启动优化详解

@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin Compose 可访问性与无障碍
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin Compose 可访问性与无障碍
 

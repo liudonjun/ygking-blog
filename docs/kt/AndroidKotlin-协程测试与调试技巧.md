@@ -1,6 +1,9 @@
 ---
 title: Android Kotlin 协程测试与调试技巧
 date: 2025-11-04
+categories:
+  - Kotlin
+  - Android
 ---
 # Android Kotlin 协程测试与调试技巧
 

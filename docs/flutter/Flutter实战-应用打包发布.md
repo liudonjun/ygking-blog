@@ -1,6 +1,8 @@
 ---
 title: Flutter 应用打包发布详解
 date: 2024-11-13
+categories:
+  - Flutter
 ---
 
 # Flutter 应用打包发布详解
