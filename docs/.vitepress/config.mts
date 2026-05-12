@@ -146,28 +146,38 @@ export default defineConfig({
     const fs = await import('fs')
     const path = await import('path')
 
-    const pages = createContentLoader('**/*.md', {
-      excerpt: false,
-      render: false,
-    })
-    const { glob } = pages
-    await pages.load()
+    function walkDir(dir: string): string[] {
+      const results: string[] = []
+      const entries = fs.readdirSync(dir, { withFileTypes: true })
+      for (const entry of entries) {
+        const fullPath = path.join(dir, entry.name)
+        if (entry.isDirectory()) {
+          results.push(...walkDir(fullPath))
+        } else if (entry.name.endsWith('.html')) {
+          results.push(fullPath)
+        }
+      }
+      return results
+    }
 
-    const urls = pages.pages.map((page) => {
-      const url = page.url
-        .replace(/\/index$/, '/')
-        .replace(/\.html$/, '')
-      return `  <url>\n    <loc>${baseUrl}${url}</loc>\n    <changefreq>daily</changefreq>\n  </url>`
-    })
+    const htmlFiles = walkDir(outDir)
+    const urls = htmlFiles.map((file) => {
+      const relative = path.relative(outDir, file)
+      let urlPath = '/' + relative.replace(/\\/g, '/').replace(/\.html$/, '')
+      if (urlPath.endsWith('/index')) {
+        urlPath = urlPath.replace(/\/index$/, '/')
+      }
+      return urlPath
+    }).sort()
 
-    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>`
+    const xmlUrls = urls.map((url) =>
+      `  <url>\n    <loc>${baseUrl}${url}</loc>\n    <changefreq>daily</changefreq>\n  </url>`
+    ).join('\n')
 
+    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${xmlUrls}\n</urlset>`
     fs.writeFileSync(path.resolve(outDir, 'sitemap.xml'), sitemap)
 
-    const txtContent = pages.pages.map((page) => {
-      return `${baseUrl}${page.url.replace(/\/index$/, '/').replace(/\.html$/, '')}`
-    }).join('\n')
-
+    const txtContent = urls.map((url) => `${baseUrl}${url}`).join('\n')
     fs.writeFileSync(path.resolve(outDir, 'sitemap.txt'), txtContent)
   },
 })
