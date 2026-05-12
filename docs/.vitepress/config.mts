@@ -1,7 +1,9 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, createContentLoader } from 'vitepress'
 import { La51Plugin } from 'vitepress-plugin-51la'
 // 导入主题的配置
 import { blogTheme } from './blog-theme'
+
+const baseUrl = 'https://ygking.cn'
 
 // 如果使用 GitHub/Gitee Pages 等公共平台部署
 // 通常需要修改 base 路径，通常为“/仓库名/”
