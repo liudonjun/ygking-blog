@@ -27,7 +27,7 @@ export default defineConfig({
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
     ['meta', { name: 'baidu-site-verification', content: 'codeva-2BEYQl0Izf' }],
     ['meta', { name: 'msvalidate.01', content: '94C3F93FA347A05C86B2F46328D8F1A4' }],
-    ['meta', { 'http-equiv': 'Content-Type', content: 'text/html;charset=gb2312' }],
+
     ['meta', { name: 'sogou_site_verification', content: 'EFlcWp0ITr' }],
     ['meta', { name: 'shenma-site-verification', content: '6dbb8595e0cf10ac2b313c2729ed8f16_1742351733' }],
     ['meta', { name: 'bytedance-verification-code', content: '3CuOfmNim2orEW8D6w1C' }],
@@ -124,7 +124,7 @@ export default defineConfig({
         text: '作品', items: [
           {
             text: 'wallpaper',
-            link: 'http://wallpaper.ygking.cn/'
+            link: 'https://wallpaper.ygking.cn/'
           },
           {
             text: 'json to dart',
