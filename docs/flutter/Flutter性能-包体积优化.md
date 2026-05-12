@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 包体积优化详解
+## Flutter 包体积优化详解
 
 ## 简介
 
@@ -15,10 +15,10 @@ categories:
 
 ### 1. Flutter 分析工具
 ```bash
-# 分析 APK
+## 分析 APK
 flutter build apk --analyze-size
 
-# 分析 iOS 包
+## 分析 iOS 包
 flutter build ios --analyze-size
 ```
 
@@ -39,7 +39,7 @@ android {
 
 ### 1. 资源优化
 ```yaml
-# pubspec.yaml
+## pubspec.yaml
 flutter:
   assets:
     # 只包含必要资源
@@ -224,7 +224,7 @@ android {
 
 ### iOS
 ```ruby
-# Podfile
+## Podfile
 post_install do |installer|
   installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|

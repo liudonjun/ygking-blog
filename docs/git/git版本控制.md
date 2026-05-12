@@ -6,7 +6,7 @@ categories:
   - Git
 ---
 
-# Git版本控制
+## Git版本控制
 
 ## 版本号管理
 
@@ -57,28 +57,28 @@ categories:
 
 1. 创建标签
 ```bash
-# 创建轻量标签
+## 创建轻量标签
 git tag v1.0.0
 
-# 创建附注标签
+## 创建附注标签
 git tag -a v1.0.0 -m "版本1.0.0发布"
 ```
 
 2. 推送标签
 ```bash
-# 推送单个标签
+## 推送单个标签
 git push origin v1.0.0
 
-# 推送所有标签
+## 推送所有标签
 git push origin --tags
 ```
 
 3. 删除标签
 ```bash
-# 删除本地标签
+## 删除本地标签
 git tag -d v1.0.0
 
-# 删除远程标签
+## 删除远程标签
 git push origin :refs/tags/v1.0.0
 ```
 

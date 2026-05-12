@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 测试覆盖率详解
+## Flutter 测试覆盖率详解
 
 ## 简介
 
@@ -23,10 +23,10 @@ dev_dependencies:
 
 ### 运行命令
 ```bash
-# 运行测试并收集覆盖率
+## 运行测试并收集覆盖率
 flutter test --coverage
 
-# 生成 HTML 报告
+## 生成 HTML 报告
 genhtml coverage/lcov.info -o coverage/html
 ```
 
@@ -140,10 +140,10 @@ void main() {
 
 ### 1. 命令行报告
 ```bash
-# 显示覆盖率摘要
+## 显示覆盖率摘要
 flutter test --coverage --coverage-path=coverage/lcov.info
 
-# 生成详细报告
+## 生成详细报告
 genhtml coverage/lcov.info -o coverage/html
 ```
 

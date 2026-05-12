@@ -4,7 +4,7 @@ date: 2025-03-14
 categories:
   - Flutter
 ---
-# Flutter 插件开发基础篇
+## Flutter 插件开发基础篇
 
 ## 插件开发概述
 
@@ -28,10 +28,10 @@ Flutter 插件是一种扩展 Flutter 应用功能的方式，它允许 Flutter 
 ### 1. 使用命令行创建
 
 ```bash
-# 创建一个新的插件项目
+## 创建一个新的插件项目
 flutter create --org com.example --template=plugin example_plugin
 
-# 项目结构
+## 项目结构
 example_plugin/
   ├── lib/                    # Dart 代码
   ├── android/                # Android 平台代码
@@ -43,7 +43,7 @@ example_plugin/
 ### 2. 配置插件信息
 
 ```yaml
-# pubspec.yaml
+## pubspec.yaml
 name: example_plugin
 description: A new Flutter plugin.
 version: 0.0.1
@@ -214,10 +214,10 @@ void main() {
 ### 2. 发布到 pub.dev
 
 ```bash
-# 检查发布配置
+## 检查发布配置
 flutter pub publish --dry-run
 
-# 发布插件
+## 发布插件
 flutter pub publish
 ```
 

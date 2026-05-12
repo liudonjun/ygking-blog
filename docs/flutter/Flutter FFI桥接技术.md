@@ -4,7 +4,7 @@ date: 2024-09-13
 categories:
   - Flutter
 ---
-# Flutter FFI 桥接技术
+## Flutter FFI 桥接技术
 
 ## 概述
 
@@ -15,7 +15,7 @@ Flutter FFI（Foreign Function Interface）是一种强大的桥接技术，允�
 ### 1. 环境配置
 
 ```yaml
-# pubspec.yaml
+## pubspec.yaml
 dependencies:
   ffi: ^2.0.1
   path: ^1.8.3

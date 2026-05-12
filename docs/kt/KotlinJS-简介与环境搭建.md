@@ -5,7 +5,7 @@ categories:
   - Kotlin
   - Android
 ---
-# Kotlin/JS 简介与环境搭建
+## Kotlin/JS 简介与环境搭建
 
 ## 什么是 Kotlin/JS
 
@@ -27,11 +27,11 @@ Kotlin/JS 是 Kotlin 语言的一个目标平台，允许开发者使用 Kotlin 
 Kotlin/JS 开发需要 Java Development Kit（JDK）。推荐使用 JDK 17 或更高版本：
 
 ```bash
-# macOS使用Homebrew安装
+## macOS使用Homebrew安装
 brew install openjdk@17
 
-# Windows可从Oracle官网下载安装包
-# Linux使用包管理器安装，如Ubuntu
+## Windows可从Oracle官网下载安装包
+## Linux使用包管理器安装，如Ubuntu
 sudo apt update
 sudo apt install openjdk-17-jdk
 ```
@@ -57,11 +57,11 @@ javac -version
 Kotlin/JS 项目使用 Gradle 作为构建工具。确保安装了 Gradle 7.0 或更高版本：
 
 ```bash
-# 使用Homebrew安装（macOS）
+## 使用Homebrew安装（macOS）
 brew install gradle
 
-# 或者使用Gradle Wrapper（推荐）
-# 项目创建后会自动包含gradlew
+## 或者使用Gradle Wrapper（推荐）
+## 项目创建后会自动包含gradlew
 ```
 
 ## 创建第一个 Kotlin/JS 项目
@@ -174,13 +174,13 @@ fun main() {
 在项目根目录执行以下命令：
 
 ```bash
-# 构建项目
+## 构建项目
 ./gradlew build
 
-# 启动开发服务器
+## 启动开发服务器
 ./gradlew jsBrowserDevelopmentRun
 
-# 构建生产版本
+## 构建生产版本
 ./gradlew jsBrowserProductionBuild
 ```
 

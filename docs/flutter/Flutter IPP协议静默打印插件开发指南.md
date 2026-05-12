@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter IPP 协议静默打印插件开发指南
+## Flutter IPP 协议静默打印插件开发指南
 
 ## 引言：跨平台静默打印的挑战与机遇
 
@@ -77,17 +77,17 @@ IPP（Internet Printing Protocol）是一个基于 HTTP/HTTPS 的网络打印协
 ### 第一步：创建插件基础结构
 
 ```bash
-# 创建Flutter插件
+## 创建Flutter插件
 flutter create --template=plugin --platforms=android,ios,linux,macos,windows printmaster
 
-# 进入插件目录
+## 进入插件目录
 cd printmaster
 ```
 
 ### 第二步：添加依赖和配置
 
 ```yaml
-# pubspec.yaml
+## pubspec.yaml
 name: printmaster
 description: Flutter plugin for IPP-based silent printing
 version: 1.0.0

@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 鸿蒙化实战：HarmonyOS 2 基础适配
+## Flutter 鸿蒙化实战：HarmonyOS 2 基础适配
 
 
 ## 目录
@@ -36,10 +36,10 @@ categories:
 ### 1.2 环境检测
 
 ```bash
-# 安装依赖后执行
+## 安装依赖后执行
 flutter doctor -v
 
-# 样例输出（节选）
+## 样例输出（节选）
 [✓] Flutter (Channel harmony, 3.22.0, on macOS, locale zh-Hans-CN)
 [✓] HarmonyOS toolchain - DevEco Studio (devicetool 3.1.0, hm BUILD 3.1.6)
 [✓] Android Studio (仅用于辅助)
@@ -83,7 +83,7 @@ project_root/
 cd flutter_app
 flutter-harmony create --org com.example --project-name flutter_harmony_app
 
-# 或使用新版 flutter 命令
+## 或使用新版 flutter 命令
 flutter create . --platforms=ohos
 ```
 
@@ -283,11 +283,11 @@ Future<String> getDeviceModel() async {
 ### 5.1 命令行构建
 
 ```bash
-# Debug 构建并安装
+## Debug 构建并安装
 flutter build ohos --debug
 flutter install ohos --device-id=<deviceId>
 
-# Release 构建 HAP
+## Release 构建 HAP
 flutter build ohos --release --split-debug-info=./symbols
 ```
 

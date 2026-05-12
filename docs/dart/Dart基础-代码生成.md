@@ -5,7 +5,7 @@ categories:
   - Dart
 ---
 
-# Dart 代码生成详解
+## Dart 代码生成详解
 
 ## 简介
 
@@ -26,10 +26,10 @@ dev_dependencies:
 
 ### 运行命令
 ```bash
-# 一次性生成
+## 一次性生成
 dart run build_runner build
 
-# 持续监听并生成
+## 持续监听并生成
 dart run build_runner watch
 ```
 

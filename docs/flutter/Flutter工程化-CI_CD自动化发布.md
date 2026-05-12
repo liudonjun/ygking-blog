@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 工程化：CI/CD 自动化发布实践
+## Flutter 工程化：CI/CD 自动化发布实践
 
 
 ## 引言
@@ -83,7 +83,7 @@ RUN yes | sdkmanager --licenses
 ### 3.1 代码质量
 
 ```yaml
-# .github/workflows/ci.yml
+## .github/workflows/ci.yml
 name: Flutter CI
 
 on:

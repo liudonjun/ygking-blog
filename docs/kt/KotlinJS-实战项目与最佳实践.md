@@ -5,7 +5,7 @@ categories:
   - Kotlin
   - Android
 ---
-# Kotlin/JS 实战项目与最佳实践
+## Kotlin/JS 实战项目与最佳实践
 
 ## 项目概述
 
@@ -1079,7 +1079,7 @@ fun compressCss(css: String): String {
 ### CI/CD 流水线
 
 ```yaml
-# .github/workflows/deploy.yml
+## .github/workflows/deploy.yml
 name: Build and Deploy
 
 on:

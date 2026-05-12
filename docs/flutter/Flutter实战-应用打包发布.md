@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 应用打包发布详解
+## Flutter 应用打包发布详解
 
 ## 简介
 
@@ -60,10 +60,10 @@ android {
 
 ### 打包命令
 ```bash
-# 生成 APK
+## 生成 APK
 flutter build apk --release
 
-# 生成 App Bundle
+## 生成 App Bundle
 flutter build appbundle
 ```
 
@@ -127,7 +127,7 @@ android {
 
 ### 打包命令
 ```bash
-# 打包特定渠道
+## 打包特定渠道
 flutter build apk --flavor google
 flutter build apk --flavor huawei
 ```
@@ -136,7 +136,7 @@ flutter build apk --flavor huawei
 
 ### Fastlane 配置
 ```ruby
-# fastlane/Fastfile
+## fastlane/Fastfile
 default_platform(:android)
 
 platform :android do
@@ -176,7 +176,7 @@ end
 
 ### CI/CD 配置
 ```yaml
-# .github/workflows/release.yml
+## .github/workflows/release.yml
 name: Release
 on:
   push:

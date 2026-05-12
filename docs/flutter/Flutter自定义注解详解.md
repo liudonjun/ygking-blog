@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 自定义注解详解
+## Flutter 自定义注解详解
 
 ## 简介
 
@@ -261,10 +261,10 @@ builders:
 ### 运行代码生成
 
 ```bash
-# 一次性生成
+## 一次性生成
 flutter pub run build_runner build
 
-# 监听文件变化
+## 监听文件变化
 flutter pub run build_runner watch
 ```
 

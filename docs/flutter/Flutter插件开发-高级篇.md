@@ -4,7 +4,7 @@ date: 2025-03-14
 categories:
   - Flutter
 ---
-# Flutter 插件开发高级篇
+## Flutter 插件开发高级篇
 
 ## 测试实践
 
@@ -114,7 +114,7 @@ class PerformanceMonitor {
 ### 1. 版本控制
 
 ```yaml
-# pubspec.yaml
+## pubspec.yaml
 name: example_plugin
 version: 1.0.0
 description: A Flutter plugin example.
@@ -132,7 +132,7 @@ environment:
 4. 发布到 pub.dev
 
 ```markdown
-# CHANGELOG.md
+## CHANGELOG.md
 ## 1.0.0
 * 初始版本发布
 * 实现基本功能

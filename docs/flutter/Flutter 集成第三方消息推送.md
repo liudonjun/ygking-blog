@@ -5,11 +5,11 @@ categories:
   - Flutter
 ---
 
-# Flutter 集成友盟消息推送
+## Flutter 集成友盟消息推送
 
 在 Flutter 项目中集成友盟消息推送服务，可以通过友盟推送 SDK 结合原生代码和 Flutter 插件实现。友盟推送支持 Android 和 iOS 平台的推送服务
 
-# 实现原理
+## 实现原理
 
 
 ```dart

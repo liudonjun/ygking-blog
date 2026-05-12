@@ -5,7 +5,7 @@ categories:
   - Kotlin
   - Android
 ---
-# Kotlin/JS 与 Kotlin Multiplatform 协同开发
+## Kotlin/JS 与 Kotlin Multiplatform 协同开发
 
 ## Kotlin Multiplatform 概述
 
@@ -1018,7 +1018,7 @@ tasks.register("buildProduction") {
 ### CI/CD 配置
 
 ```yaml
-# .github/workflows/build.yml
+## .github/workflows/build.yml
 name: Build and Deploy
 
 on:

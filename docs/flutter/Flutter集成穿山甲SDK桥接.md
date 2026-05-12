@@ -4,7 +4,7 @@ date: 2024-09-13
 categories:
   - Flutter
 ---
-# Flutter 集成穿山甲 SDK 桥接
+## Flutter 集成穿山甲 SDK 桥接
 
 ## 概述
 
@@ -15,7 +15,7 @@ categories:
 ### 1. 项目配置
 
 ```yaml
-# pubspec.yaml
+## pubspec.yaml
 dependencies:
   flutter:
     sdk: flutter
@@ -75,7 +75,7 @@ dependencies {
 ### 3. iOS 配置
 
 ```ruby
-# ios/Podfile
+## ios/Podfile
 platform :ios, '10.0'
 
 target 'Runner' do

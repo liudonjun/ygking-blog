@@ -5,7 +5,7 @@ categories:
   - Flutter
 ---
 
-# Flutter 系统权限申请与配置详解
+## Flutter 系统权限申请与配置详解
 
 ## 引言：权限管理在现代应用中的重要性
 
@@ -251,7 +251,7 @@ iOS 平台需要在 Info.plist 中添加权限说明：
 iOS 平台还需要在 Podfile 中添加权限相关的依赖：
 
 ```ruby
-# ios/Podfile
+## ios/Podfile
 platform :ios, '12.0'
 
 target 'Runner' do
@@ -287,7 +287,7 @@ target 'Runner' do
   end
 end
 
-# 后安装脚本，用于配置权限
+## 后安装脚本，用于配置权限
 post_install do |installer|
   installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|
@@ -321,14 +321,14 @@ end
 对于使用 Flutter 的项目，Podfile 配置应该如下：
 
 ```ruby
-# ios/Podfile
+## ios/Podfile
 platform :ios, '12.0'
 
-# CocoaPods analytics sends network requests to Google Analytics
-# To disable this, uncomment the following line
-# ENV['COCOAPODS_DISABLE_STATS'] = 'true'
+## CocoaPods analytics sends network requests to Google Analytics
+## To disable this, uncomment the following line
+## ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
-# Prevent CocoaPods from generating a Pods.xcodeproj with Xcode 12+.
+## Prevent CocoaPods from generating a Pods.xcodeproj with Xcode 12+.
 install! 'cocoapods', :deterministic_uuids => false
 
 target 'Runner' do
@@ -360,7 +360,7 @@ target 'Runner' do
   end
 end
 
-# 后安装脚本，用于配置权限和构建设置
+## 后安装脚本，用于配置权限和构建设置
 post_install do |installer|
   installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|
