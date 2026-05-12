@@ -1,4 +1,4 @@
-import { defineConfig, createContentLoader } from 'vitepress'
+import { defineConfig } from 'vitepress'
 import { La51Plugin } from 'vitepress-plugin-51la'
 // 导入主题的配置
 import { blogTheme } from './blog-theme'
@@ -85,7 +85,7 @@ export default defineConfig({
     logo: '/logo.jpg',
     editLink: {
       pattern:
-        'https://github.com/liudonjun/ygking-blog/tree/master/docs/:path',
+        'https://github.com/liudonjun/ygking-blog/edit/master/docs/:path',
       text: '去 GitHub 上编辑内容'
     },
     nav: [
