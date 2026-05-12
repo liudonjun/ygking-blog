@@ -54,7 +54,7 @@ ListWheelScrollView.useDelegate(
     childCount: itemCount,
   ),
 )
-```
+```text
 
 ## useDelegate 构建的 ListWheelScrollView 的子项
 
@@ -151,7 +151,7 @@ return Positioned(
     color: const Color.fromRGBO(202, 177, 255, 1),
   ),
 );
-```
+```text
 ## 关键布局代码
 
 ```dart
