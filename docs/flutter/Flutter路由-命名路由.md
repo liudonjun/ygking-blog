@@ -1,7 +1,7 @@
 ---
 title: Flutter 命名路由详解
 description: 详细介绍 Flutter 中的命名路由机制和使用方法。
-tag:
+tags:
  - Flutter
  - 导航
 sidebar: true

@@ -1,7 +1,7 @@
 ---
 title: Flutter集成地图服务
 description: 本文详细介绍如何在Flutter项目中集成高德地图和Google Maps服务，包括基础配置、地图展示、定位服务和路径规划等功能实现。
-tag:
+tags:
   - Flutter
   - 第三方插件
   - 地图服务

@@ -1,7 +1,7 @@
 ---
 title: Flutter Scaffold 组件详解
 description: Scaffold 是 Flutter 中用于实现基础页面布局的组件,本文详细介绍其用法和注意事项。
-tag:
+tags:
  - Flutter
  - 组件
 sidebar: true

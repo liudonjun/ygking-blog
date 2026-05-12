@@ -1,7 +1,7 @@
 ---
 title: Flutter WebSocket 实现详解
 description: 详细介绍 Flutter 中使用 WebSocket 进行实时通信的方法和最佳实践。
-tag:
+tags:
  - Flutter
  - 网络
 sidebar: true

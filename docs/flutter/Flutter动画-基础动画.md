@@ -1,7 +1,7 @@
 ---
 title: Flutter 基础动画详解
 description: 详细介绍 Flutter 中的基础动画系统,包括隐式动画、显式动画和自定义动画。
-tag:
+tags:
  - Flutter
  - 动画
 sidebar: true

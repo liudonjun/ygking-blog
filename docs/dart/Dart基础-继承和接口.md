@@ -1,7 +1,7 @@
 ---
 title: Dart 继承和接口详解
 description: 详细介绍 Dart 语言中的继承机制、接口实现和多态特性。
-tag:
+tags:
  - Dart
  - 基础教程
 sidebar: true

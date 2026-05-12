@@ -1,7 +1,7 @@
 ---
 title: 简单了解Flutter
 description: Flutter 是由 Google 开发的开源 UI 框架，它的最大优势就是可以用一套代码，同时适配 iOS、Android、Web 甚至桌面平台。简单来说，Flutter 帮助开发者快速构建高性能的应用，而不需要为不同平台写不同的代码。它的底层使用 Dart 语言，很多开发者选择 Flutter 就是因为它开发效率高，性能优越，最重要的是：学起来不难。
-tag:
+tags:
  - Dart
  - Flutter
 # top: 1

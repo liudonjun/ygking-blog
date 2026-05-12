@@ -1,7 +1,7 @@
 ---
 title: Flutter 插件开发基础篇
 description: 本文详细介绍 Flutter 插件开发的基础知识，包括插件项目结构、通信机制和基本开发流程。
-tag:
+tags:
   - Flutter
   - 插件开发
 sticky: 1

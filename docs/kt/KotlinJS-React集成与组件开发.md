@@ -1,7 +1,7 @@
 ---
 title: Kotlin/JS React 集成与组件开发
 description: 深入学习Kotlin/JS与React的集成，掌握使用Kotlin构建React组件、状态管理、路由和现代Web应用的技巧。
-tag:
+tags:
   - Kotlin
   - JavaScript
   - React

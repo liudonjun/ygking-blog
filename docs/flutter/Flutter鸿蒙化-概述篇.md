@@ -1,7 +1,7 @@
 ---
 title: Flutter 鸿蒙化概述篇：从愿景到落地
 description: 全面梳理 Flutter 在鸿蒙生态中的定位、适配路径与团队落地策略，为后续实战篇章打好基础。
-tag:
+tags:
   - Flutter
   - 鸿蒙
   - 适配指南

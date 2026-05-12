@@ -1,7 +1,7 @@
 ---
 title: Flutter集成Firebase Analytics
 description: 本文详细介绍如何在Flutter项目中集成Firebase Analytics进行用户行为分析，包括安装配置、事件跟踪和数据分析。
-tag:
+tags:
   - Flutter
   - 第三方插件
   - 数据分析

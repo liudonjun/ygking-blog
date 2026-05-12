@@ -2,7 +2,7 @@
 title: Git分支管理策略
 description: 详细介绍Git分支管理策略，包括分支类型、工作流程和最佳实践
 date: 2024-01-09
-tag:
+tags:
   - Git
   - 版本控制
 ---

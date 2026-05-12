@@ -1,7 +1,7 @@
 ---
 title: Flutter 注解详解
 description: 详细介绍 Flutter 和 Dart 中的注解（Annotations）使用方法和最佳实践，包括内置注解和自定义注解的创建与应用。
-tag:
+tags:
  - Flutter
  - Dart
 sidebar: true

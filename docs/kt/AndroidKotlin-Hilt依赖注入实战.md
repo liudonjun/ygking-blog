@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin Hilt 依赖注入实战
 description: 结合 Kotlin 讲解 Hilt 依赖注入在 Android 项目中的模块划分、作用域管理与测试策略。
-tag:
+tags:
   - Kotlin
   - Hilt
   - DI

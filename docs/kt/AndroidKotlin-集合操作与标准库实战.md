@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin 集合操作与标准库实战
 description: 探索 Kotlin 集合框架与标准库扩展函数，提升 Android 业务数据处理效率与代码可读性。
-tag:
+tags:
   - Kotlin
   - Android
   - 集合

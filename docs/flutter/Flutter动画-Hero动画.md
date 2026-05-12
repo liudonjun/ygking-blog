@@ -1,7 +1,7 @@
 ---
 title: Flutter Hero 动画详解
 description: 详细介绍 Flutter 中的 Hero 动画实现,包括基础用法和进阶技巧。
-tag:
+tags:
  - Flutter
  - 动画
 sidebar: true

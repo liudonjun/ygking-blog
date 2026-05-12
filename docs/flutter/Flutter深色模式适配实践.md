@@ -1,7 +1,7 @@
 ---
 title: Flutter深色模式适配实践
 description: 本文详细介绍Flutter深色模式的适配实践，包括主题切换机制、自定义组件适配、动态切换等内容，帮助开发者实现完善的深色模式支持。
-tag:
+tags:
   - Flutter
   - 主题切换
   - 深色模式

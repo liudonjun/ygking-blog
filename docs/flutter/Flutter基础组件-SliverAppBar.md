@@ -1,7 +1,7 @@
 ---
 title: Flutter SliverAppBar 组件详解
 description: SliverAppBar 是 Flutter 中一个可伸缩的应用栏组件,本文详细介绍其用法和注意事项。
-tag:
+tags:
  - Flutter
  - 组件
 sidebar: true

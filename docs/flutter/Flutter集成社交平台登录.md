@@ -1,7 +1,7 @@
 ---
 title: Flutter集成社交平台登录
 description: 本文详细介绍如何在Flutter项目中集成第三方社交平台登录功能，包括微信、QQ、Facebook等平台的登录实现。
-tag:
+tags:
   - Flutter
   - 第三方插件
   - 社交登录

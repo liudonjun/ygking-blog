@@ -1,7 +1,7 @@
 ---
 title: Flutter 自定义动画详解
 description: 详细介绍 Flutter 中自定义动画的实现方法,包括自定义 Tween、动画控制器和动画组件。
-tag:
+tags:
  - Flutter
  - 动画
 sidebar: true

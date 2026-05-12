@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin Compose Material 3 设计体系
 description: 介绍 Jetpack Compose Material 3 的主题系统、动态配色、组件库与设计一致性实践。
-tag:
+tags:
   - Kotlin
   - Compose
   - Material3

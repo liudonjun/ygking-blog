@@ -1,7 +1,7 @@
 ---
 title: Flutter集成支付SDK
 description: 本文详细介绍如何在Flutter项目中集成支付宝和微信支付SDK，包括配置步骤、接口调用和支付流程处理。
-tag:
+tags:
   - Flutter
   - 第三方插件
   - 支付功能

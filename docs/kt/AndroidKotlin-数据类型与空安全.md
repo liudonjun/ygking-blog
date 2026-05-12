@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin 数据类型与空安全
 description: 深入理解 Kotlin 的数据类型体系、空安全与类型转换技巧，避免 Android 开发中的 NPE 与类型隐患。
-tag:
+tags:
   - Kotlin
   - Android
   - 基础

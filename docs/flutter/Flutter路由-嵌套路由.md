@@ -1,7 +1,7 @@
 ---
 title: Flutter 嵌套路由详解
 description: 详细介绍 Flutter 中嵌套路由的实现方法和最佳实践。
-tag:
+tags:
  - Flutter
  - 导航
 sidebar: true

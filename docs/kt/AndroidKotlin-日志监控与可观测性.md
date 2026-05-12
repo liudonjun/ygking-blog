@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin 日志监控与可观测性
 description: 构建 Android Kotlin 应用的日志体系、崩溃监控与性能指标采集，实现端到端可观测性。
-tag:
+tags:
   - Kotlin
   - 可观测性
   - 日志

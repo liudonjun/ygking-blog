@@ -1,7 +1,7 @@
 ---
 title: Flutter CustomScrollView 组件详解
 description: CustomScrollView 是 Flutter 中用于创建自定义滚动效果的组件,本文详细介绍其用法和注意事项。
-tag:
+tags:
  - Flutter
  - 组件
 sidebar: true

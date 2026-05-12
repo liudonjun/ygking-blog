@@ -1,7 +1,7 @@
 ---
 title: Flutter 组合动画详解
 description: 详细介绍 Flutter 中如何组合多个动画实现复杂的动画效果。
-tag:
+tags:
  - Flutter
  - 动画
 sidebar: true

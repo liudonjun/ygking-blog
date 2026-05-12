@@ -1,7 +1,7 @@
 ---
 title: Kotlin/JS 与 JavaScript 互操作
 description: 深入学习Kotlin/JS与JavaScript的互操作机制，掌握external关键字、模块导入、动态类型处理以及第三方库的集成方法。
-tag:
+tags:
   - Kotlin
   - JavaScript
   - 互操作

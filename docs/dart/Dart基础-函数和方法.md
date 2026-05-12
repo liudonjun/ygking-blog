@@ -1,7 +1,7 @@
 ---
 title: Dart 函数和方法详解
 description: 详细介绍 Dart 语言中的函数定义、参数传递和方法使用。
-tag:
+tags:
  - Dart
  - 基础教程
 sidebar: true

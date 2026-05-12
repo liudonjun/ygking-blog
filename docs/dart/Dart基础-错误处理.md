@@ -1,7 +1,7 @@
 ---
 title: Dart 错误处理详解
 description: 详细介绍 Dart 语言中的错误处理机制,包括异常捕获、自定义异常和错误传播等。
-tag:
+tags:
  - Dart
  - 基础教程
 sidebar: true

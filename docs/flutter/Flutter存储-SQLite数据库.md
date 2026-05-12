@@ -1,7 +1,7 @@
 ---
 title: Flutter SQLite 数据库详解
 description: 详细介绍 Flutter 中使用 SQLite 数据库进行数据持久化的方法。
-tag:
+tags:
  - Flutter
  - 存储
 sidebar: true

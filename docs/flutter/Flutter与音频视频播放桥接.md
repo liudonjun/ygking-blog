@@ -1,7 +1,7 @@
 ---
 title: Flutter 与音频视频播放桥接
 description: 本文详细介绍Flutter应用如何实现音频视频播放功能，包括本地和在线媒体播放、播放控制、播放列表管理、后台播放等核心功能，以及Android和iOS平台的具体实现细节。
-tag:
+tags:
   - Flutter
   - 音频播放
   - 视频播放

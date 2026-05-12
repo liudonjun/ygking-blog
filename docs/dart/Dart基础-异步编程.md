@@ -1,7 +1,7 @@
 ---
 title: Dart 异步编程详解
 description: 详细介绍 Dart 语言中的异步编程机制,包括 Future、async/await 和 Stream。
-tag:
+tags:
  - Dart
  - 基础教程
 sidebar: true

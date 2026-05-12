@@ -1,7 +1,7 @@
 ---
 title: Flutter 推送通知实现详解
 description: 详细介绍 Flutter 中实现推送通知的方法和最佳实践。
-tag:
+tags:
  - Flutter
  - 实战
 sidebar: true

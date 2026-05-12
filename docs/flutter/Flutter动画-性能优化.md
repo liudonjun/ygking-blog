@@ -1,7 +1,7 @@
 ---
 title: Flutter 动画性能优化详解
 description: 详细介绍 Flutter 动画的性能优化技巧和最佳实践。
-tag:
+tags:
  - Flutter
  - 动画
  - 性能优化

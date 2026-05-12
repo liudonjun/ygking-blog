@@ -2,7 +2,7 @@
 title: 留言板
 description: 欢迎留言交流，期待与您的互动~
 date: 2022-04-11
-tag:
+tags:
  - 留言板
 buttonAfterArticle: false
 ---

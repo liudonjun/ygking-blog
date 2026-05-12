@@ -1,7 +1,7 @@
 ---
 title: Flutter 启动优化详解
 description: 详细介绍 Flutter 应用启动优化的方法和最佳实践。
-tag:
+tags:
  - Flutter
  - 性能优化
 sidebar: true

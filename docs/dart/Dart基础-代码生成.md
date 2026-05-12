@@ -1,7 +1,7 @@
 ---
 title: Dart 代码生成详解
 description: 详细介绍 Dart 语言中的代码生成机制,包括 build_runner、source_gen 等工具的使用。
-tag:
+tags:
  - Dart
  - 基础教程
 sidebar: true

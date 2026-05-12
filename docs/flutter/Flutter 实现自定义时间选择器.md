@@ -1,7 +1,7 @@
 ---
 title: Flutter 实现自定义时间选择器
 description: 在 Flutter 中，时间选择器是应用程序中常见的组件之一。尽管 Flutter 提供了内置的时间选择器，但有时我们需要实现一个更加个性化的自定义时间选择器。在这篇文章中，我们将使用 ListWheelScrollView 组件来实现一个自定义的时间选择器。
-tag:
+tags:
  - Dart
  - Flutter
 # top: 1

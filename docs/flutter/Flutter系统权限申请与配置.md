@@ -1,7 +1,7 @@
 ---
 title: Flutter 系统权限申请与配置详解
 description: 权限管理是移动应用开发中的核心环节，它不仅关系到应用功能的正常实现，还直接影响用户体验和应用的安...
-tag:
+tags:
   - Flutter
 sidebar: true
 ---

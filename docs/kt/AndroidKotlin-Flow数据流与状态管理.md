@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin Flow 数据流与状态管理
 description: 介绍 Kotlin Flow 在 Android 中的使用模式，涵盖热流、冷流、状态管理与背压策略。
-tag:
+tags:
   - Kotlin
   - Flow
   - Android

@@ -1,7 +1,7 @@
 ---
 title: Flutter 与联系人管理桥接技术详解
 description: 联系人管理是许多移动应用的核心功能之一。无论是社交应用、通讯工具、客户关系管理系统，还是简单的拨...
-tag:
+tags:
   - Flutter
 sidebar: true
 ---

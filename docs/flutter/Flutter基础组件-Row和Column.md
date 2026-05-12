@@ -1,7 +1,7 @@
 ---
 title: Flutter Row 和 Column 组件详解
 description: Row 和 Column 是 Flutter 中最基础的线性布局组件,本文详细介绍其用法和注意事项。
-tag:
+tags:
  - Flutter
  - 组件
 sidebar: true

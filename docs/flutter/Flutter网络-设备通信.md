@@ -1,7 +1,7 @@
 ---
 title: Flutter 设备通信详解
 description: 详细介绍 Flutter 中的 WiFi、蓝牙等设备通信方法和最佳实践。
-tag:
+tags:
  - Flutter
  - 网络
  - 设备通信

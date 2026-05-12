@@ -1,7 +1,7 @@
 ---
 title: Kotlin/JS 实战项目与最佳实践
 description: 通过一个完整的实战项目，综合运用Kotlin/JS的各项技术，学习项目架构设计、开发流程和最佳实践。
-tag:
+tags:
   - Kotlin
   - JavaScript
   - 实战项目

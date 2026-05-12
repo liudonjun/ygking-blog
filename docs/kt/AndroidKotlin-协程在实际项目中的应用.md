@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin 协程在实际项目中的应用
 description: 分享 Kotlin 协程在 Android 项目中的实践经验，涵盖网络层、数据库、并发控制与性能调优。
-tag:
+tags:
   - Kotlin
   - 协程
   - Android

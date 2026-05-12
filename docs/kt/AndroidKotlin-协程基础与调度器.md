@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin 协程基础与调度器
 description: 系统梳理 Kotlin 协程的基础概念、作用域与调度器，为在 Android 中编写高质量异步代码做好准备。
-tag:
+tags:
   - Kotlin
   - 协程
   - Android

@@ -1,7 +1,7 @@
 ---
 title: Flutter GridView 组件详解
 description: GridView 是 Flutter 中用于创建网格布局的基础组件,本文详细介绍其用法和注意事项。
-tag:
+tags:
  - Flutter
  - 组件
 sidebar: true

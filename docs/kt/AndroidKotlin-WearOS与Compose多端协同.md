@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin Wear OS 与 Compose 多端协同
 description: 介绍 Kotlin 在 Wear OS 与手机端协同开发中的 Compose 布局、数据同步与测试方法。
-tag:
+tags:
   - Kotlin
   - Compose
   - WearOS

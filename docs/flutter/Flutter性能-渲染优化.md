@@ -1,7 +1,7 @@
 ---
 title: Flutter 渲染优化详解
 description: 详细介绍 Flutter 应用渲染性能优化的方法和最佳实践。
-tag:
+tags:
  - Flutter
  - 性能优化
 sidebar: true

@@ -1,7 +1,7 @@
 ---
 title: Flutter 与 Web 平台桥接
 description: 本文详细介绍Flutter与Web平台的桥接技术，包括JavaScript互操作、DOM操作、Web API集成和性能优化等内容。
-tag:
+tags:
   - Flutter
   - Web平台
   - JavaScript互操作

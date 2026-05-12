@@ -1,7 +1,7 @@
 ---
 title: Flutter 自定义注解详解
 description: 详细介绍如何在 Flutter 和 Dart 中创建和使用自定义注解，包括注解处理器的开发、代码生成等高级主题。
-tag:
+tags:
  - Flutter
  - Dart
 sidebar: true

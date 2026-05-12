@@ -1,7 +1,7 @@
 ---
 title: Kotlin/JS 模块化与依赖管理
 description: 深入了解Kotlin/JS的模块系统、依赖管理策略，以及如何有效地组织和管理大型项目的模块和依赖关系。
-tag:
+tags:
   - Kotlin
   - JavaScript
   - 模块化

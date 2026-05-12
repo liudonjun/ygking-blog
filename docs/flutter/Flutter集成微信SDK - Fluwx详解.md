@@ -2,7 +2,7 @@
 title: Flutter集成微信SDK - Fluwx详解
 description: 详细介绍如何在Flutter项目中使用Fluwx插件实现微信登录、支付、分享等功能
 date: 2024-01-09
-tag:
+tags:
  - Flutter
  - Fluwx
 ---

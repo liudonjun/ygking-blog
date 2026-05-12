@@ -1,7 +1,7 @@
 ---
 title: Flutter 基础导航详解
 description: 详细介绍 Flutter 中的基础导航方法和使用技巧。
-tag:
+tags:
  - Flutter
  - 导航
 sidebar: true

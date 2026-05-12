@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin 多模块资源与路由管理
 description: 探讨大型 Android Kotlin 项目中的多模块资源划分、路由通信与依赖管理策略。
-tag:
+tags:
   - Kotlin
   - 多模块
   - 架构

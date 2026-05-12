@@ -1,7 +1,7 @@
 ---
 title: Flutter Stack 组件详解
 description: Stack 是 Flutter 中用于堆叠布局的基础组件,本文详细介绍其用法和注意事项。
-tag:
+tags:
  - Flutter
  - 组件
 sidebar: true

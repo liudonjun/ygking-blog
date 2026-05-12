@@ -1,7 +1,7 @@
 ---
 title: Flutter 与第三方 SDK 桥接最佳实践
 description: 本文详细介绍Flutter与第三方SDK桥接的最佳实践，包括SDK集成策略、API封装、错误处理、性能优化和跨平台兼容性等内容。
-tag:
+tags:
   - Flutter
   - 第三方SDK
   - 桥接

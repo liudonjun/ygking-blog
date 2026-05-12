@@ -1,7 +1,7 @@
 ---
 title: Android Kotlin Gradle Kotlin DSL 与构建优化
 description: 总结 Gradle Kotlin DSL 在 Android 项目中的使用技巧、版本管理与构建性能优化方案。
-tag:
+tags:
   - Kotlin
   - Gradle
   - 构建

@@ -1,7 +1,7 @@
 ---
 title: Flutter 状态管理-BLOC 实战指南
 description: 本文通过一个完整的故事案例，深入浅出地讲解Flutter BLOC状态管理模式的全部用法，包括基础概念、事件处理、状态转换、错误处理和最佳实践。
-tag:
+tags:
   - Flutter
   - BLOC
   - 状态管理

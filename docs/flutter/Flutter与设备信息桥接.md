@@ -1,7 +1,7 @@
 ---
 title: Flutter 与设备信息桥接技术详解
 description: 设备信息是移动应用开发中的关键数据来源，它不仅帮助开发者了解用户设备环境，还能为应用提供个性化的...
-tag:
+tags:
   - Flutter
 sidebar: true
 ---

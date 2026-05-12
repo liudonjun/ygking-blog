@@ -1,7 +1,7 @@
 ---
 title: Dart 变量和数据类型详解
 description: 详细介绍 Dart 语言中的变量声明和基本数据类型。
-tag:
+tags:
  - Dart
  - 基础教程
 sidebar: true

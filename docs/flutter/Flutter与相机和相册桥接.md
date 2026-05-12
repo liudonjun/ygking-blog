@@ -1,7 +1,7 @@
 ---
 title: Flutter 与相机和相册桥接
 description: 本文详细介绍Flutter应用如何与相机和相册进行桥接交互，包括拍照、录像、图片选择、视频选择、图片编辑等核心功能，以及Android和iOS平台的具体实现细节。
-tag:
+tags:
   - Flutter
   - 相机
   - 相册
