@@ -141,4 +141,33 @@ export default defineConfig({
       }
     ]
   },
+
+  buildEnd: async ({ outDir }) => {
+    const fs = await import('fs')
+    const path = await import('path')
+
+    const pages = createContentLoader('**/*.md', {
+      excerpt: false,
+      render: false,
+    })
+    const { glob } = pages
+    await pages.load()
+
+    const urls = pages.pages.map((page) => {
+      const url = page.url
+        .replace(/\/index$/, '/')
+        .replace(/\.html$/, '')
+      return `  <url>\n    <loc>${baseUrl}${url}</loc>\n    <changefreq>daily</changefreq>\n  </url>`
+    })
+
+    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>`
+
+    fs.writeFileSync(path.resolve(outDir, 'sitemap.xml'), sitemap)
+
+    const txtContent = pages.pages.map((page) => {
+      return `${baseUrl}${page.url.replace(/\/index$/, '/').replace(/\.html$/, '')}`
+    }).join('\n')
+
+    fs.writeFileSync(path.resolve(outDir, 'sitemap.txt'), txtContent)
+  },
 })

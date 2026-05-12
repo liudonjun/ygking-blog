@@ -1,14 +1,11 @@
 ---
 title: Flutter 鸿蒙化：LiteOS 与 IoT 设备适配实践
-
 description: 总结 Flutter 在 LiteOS / OpenHarmony 小型设备中的运行方式，涵盖精简引擎、资源裁剪、低功耗调优与典型场景案例。
 tag:
-
-- Flutter
-- LiteOS
-- IoT
-  sidebar: true
-
+  - Flutter
+  - LiteOS
+  - IoT
+sidebar: true
 ---
 
 # Flutter 鸿蒙化：LiteOS 与 IoT 设备适配实践

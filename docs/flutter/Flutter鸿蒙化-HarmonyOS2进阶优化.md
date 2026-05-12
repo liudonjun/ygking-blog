@@ -1,14 +1,11 @@
 ---
 title: Flutter 鸿蒙化进阶：HarmonyOS 2 深度优化与工程实践
-
 description: 在基础适配之上，系统化讲解 Flutter × HarmonyOS 2 的性能调优、分布式能力接入、安全合规与工程化落地。
 tag:
-
-- Flutter
-- 鸿蒙
-- 性能优化
-  sidebar: true
-
+  - Flutter
+  - 鸿蒙
+  - 性能优化
+sidebar: true
 ---
 
 # Flutter 鸿蒙化进阶：HarmonyOS 2 深度优化与工程实践
