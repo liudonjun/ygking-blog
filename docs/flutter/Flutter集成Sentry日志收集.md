@@ -1,4 +1,5 @@
 ---
+title: Flutter集成Sentry日志收集
 description: 本文详细介绍如何在Flutter项目中集成Sentry进行日志收集和错误监控，包括安装配置、使用示例和最佳实践。
 tag:
   - Flutter
@@ -7,7 +8,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter集成Sentry日志收集
 
 ## 简介

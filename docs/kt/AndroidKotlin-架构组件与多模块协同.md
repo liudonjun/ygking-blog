@@ -1,4 +1,5 @@
 ---
+title: Android Kotlin 架构组件与多模块协同
 description: 总结 Kotlin 在现代 Android 架构中的应用，涵盖 Jetpack 组件、Clean Architecture 与多模块协同实践。
 tag:
   - Kotlin
@@ -6,7 +7,6 @@ tag:
   - 架构
 sidebar: true
 ---
-
 # Android Kotlin 架构组件与多模块协同
 
 ## 架构演进概览

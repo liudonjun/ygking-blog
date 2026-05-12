@@ -1,6 +1,5 @@
-# Flutter 工程化：CI/CD 自动化发布实践
-
 ---
+title: Flutter 工程化：CI/CD 自动化发布实践
 
 description: 梳理 Flutter 项目在团队协作中的工程化流程，聚焦持续集成与持续交付，从流水线设计到质量保障与发布治理。
 tag:
@@ -11,6 +10,9 @@ tag:
   sidebar: true
 
 ---
+
+# Flutter 工程化：CI/CD 自动化发布实践
+
 
 ## 引言
 

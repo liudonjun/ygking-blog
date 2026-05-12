@@ -1,4 +1,5 @@
 ---
+title: Flutter 与传感器桥接
 description: 本文详细介绍Flutter应用如何与各种传感器进行桥接交互，包括加速度计、陀螺仪、磁力计、光线传感器、距离传感器等核心功能，以及Android和iOS平台的具体实现细节。
 tag:
   - Flutter
@@ -10,7 +11,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 与传感器桥接
 
 ## 故事开始：小陈的健身追踪应用

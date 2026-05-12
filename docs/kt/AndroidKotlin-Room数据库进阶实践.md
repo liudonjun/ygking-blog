@@ -1,4 +1,5 @@
 ---
+title: Android Kotlin Room 数据库进阶实践
 description: 深入讲解 Room 数据库的架构设计、性能优化、离线缓存与多模块协同技巧。
 tag:
   - Kotlin
@@ -6,7 +7,6 @@ tag:
   - 数据库
 sidebar: true
 ---
-
 # Android Kotlin Room 数据库进阶实践
 
 ## 架构设计

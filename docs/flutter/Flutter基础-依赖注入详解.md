@@ -1,4 +1,5 @@
 ---
+title: Flutter 依赖注入详解
 description: Flutter 中的依赖注入是一种设计模式，它可以帮助我们更好地管理应用程序中的依赖关系，提高代码的可维护性和可测试性。
 tag:
   - Flutter
@@ -6,7 +7,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 依赖注入详解
 
 ## 什么是依赖注入

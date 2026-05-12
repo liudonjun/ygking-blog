@@ -1,4 +1,5 @@
 ---
+title: Flutter 多线程和并发编程
 description: Flutter 中的多线程和并发编程是提高应用性能和响应性的关键技术，本文将详细介绍相关概念和最佳实践。
 tag:
   - Flutter
@@ -6,7 +7,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 多线程和并发编程
 
 ## Isolate 基础

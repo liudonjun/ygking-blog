@@ -1,4 +1,5 @@
 ---
+title: Android Kotlin DataStore 配置与迁移
 description: 详解 Jetpack DataStore 的使用场景、Proto 配置与 SharedPreferences 迁移方案。
 tag:
   - Kotlin
@@ -6,7 +7,6 @@ tag:
   - Android
 sidebar: true
 ---
-
 # Android Kotlin DataStore 配置与迁移
 
 ## DataStore 简介

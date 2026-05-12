@@ -1,4 +1,5 @@
 ---
+title: Kotlin/JS 性能优化与调试技巧
 description: 深入学习Kotlin/JS应用的性能优化策略、调试技巧和性能监控方法，构建高性能的Web应用程序。
 tag:
   - Kotlin
@@ -8,7 +9,6 @@ tag:
   - 监控
 sidebar: true
 ---
-
 # Kotlin/JS 性能优化与调试技巧
 
 ## 性能优化概述

@@ -1,4 +1,5 @@
 ---
+title: Flutter 跨平台数据同步与状态管理桥接
 description: 本文详细介绍Flutter跨平台数据同步与状态管理桥接技术，包括数据同步策略、状态管理架构、冲突解决和性能优化等内容。
 tag:
   - Flutter
@@ -9,7 +10,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 跨平台数据同步与状态管理桥接
 
 ## 概述

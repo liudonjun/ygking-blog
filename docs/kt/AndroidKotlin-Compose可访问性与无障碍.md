@@ -1,4 +1,5 @@
 ---
+title: Android Kotlin Compose 可访问性与无障碍
 description: 介绍 Jetpack Compose 应用的无障碍适配策略，包括语义、对比度、动态字体与 TalkBack 支持。
 tag:
   - Kotlin
@@ -6,7 +7,6 @@ tag:
   - 无障碍
 sidebar: true
 ---
-
 # Android Kotlin Compose 可访问性与无障碍
 
 ## 可访问性目标

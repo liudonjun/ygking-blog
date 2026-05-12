@@ -1,6 +1,5 @@
-# Flutter 桌面端开发实践指南
-
 ---
+title: Flutter 桌面端开发实践指南
 
 description: 汇总 Flutter 构建 Windows、macOS、Linux 桌面应用的最佳实践，涵盖环境搭建、UI 适配、插件开发、打包发布与企业部署策略。
 tag:
@@ -10,6 +9,9 @@ tag:
   sidebar: true
 
 ---
+
+# Flutter 桌面端开发实践指南
+
 
 ## 前言
 

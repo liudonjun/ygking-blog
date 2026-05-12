@@ -1,4 +1,5 @@
 ---
+title: Flutter 与原生平台深度桥接
 description: 本文详细介绍Flutter与原生平台的深度桥接技术，包括高级平台通道应用、性能优化、内存管理和复杂场景下的最佳实践。
 tag:
   - Flutter
@@ -8,7 +9,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 与原生平台深度桥接
 
 ## 概述

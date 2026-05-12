@@ -1,4 +1,5 @@
 ---
+title: Flutter 状态管理-综合实战指南
 description: 本文通过一个完整的电商应用开发故事，深入浅出地讲解Flutter各种状态管理方案的实战应用，包括Provider、BLOC、GetX、Riverpod等，帮助开发者选择合适的状态管理方案。
 tag:
   - Flutter
@@ -11,7 +12,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 状态管理-综合实战指南
 
 ## 故事开始：小丽的电商创业梦

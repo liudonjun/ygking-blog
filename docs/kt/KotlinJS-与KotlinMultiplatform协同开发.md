@@ -1,4 +1,5 @@
 ---
+title: Kotlin/JS 与 Kotlin Multiplatform 协同开发
 description: 深入学习Kotlin/JS与Kotlin Multiplatform的协同开发，掌握跨平台代码共享、平台特定实现和项目架构设计。
 tag:
   - Kotlin
@@ -8,7 +9,6 @@ tag:
   - 代码共享
 sidebar: true
 ---
-
 # Kotlin/JS 与 Kotlin Multiplatform 协同开发
 
 ## Kotlin Multiplatform 概述

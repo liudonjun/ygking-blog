@@ -1,6 +1,5 @@
-# Flutter 鸿蒙化：HarmonyOS NEXT 适配指南
-
 ---
+title: Flutter 鸿蒙化：HarmonyOS NEXT 适配指南
 
 description: 面向全新的 HarmonyOS NEXT 微内核与 ArkTS 体系，详解 Flutter 工程如何演进、重构 Embedder，并拥抱纯鸿蒙生态。
 tag:
@@ -11,6 +10,9 @@ tag:
   sidebar: true
 
 ---
+
+# Flutter 鸿蒙化：HarmonyOS NEXT 适配指南
+
 
 ## 前言
 

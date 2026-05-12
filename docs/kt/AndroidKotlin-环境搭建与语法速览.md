@@ -1,4 +1,5 @@
 ---
+title: Android Kotlin 环境搭建与语法速览
 description: 搭建 Kotlin/Android 开发环境，快速熟悉基本语法、包结构与常用工具链，为后续进阶学习打下基础。
 tag:
   - Kotlin
@@ -6,7 +7,6 @@ tag:
   - 基础
 sidebar: true
 ---
-
 # Android Kotlin 环境搭建与语法速览
 
 ## 开发环境准备

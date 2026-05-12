@@ -1,4 +1,5 @@
 ---
+title: Flutter 与 NFC 近场通信桥接
 description: 本文详细介绍Flutter应用如何实现NFC近场通信功能，包括NDEF数据读写、标签检测、点对点通信等核心功能，以及Android和iOS平台的具体实现细节。
 tag:
   - Flutter
@@ -10,7 +11,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 与 NFC 近场通信桥接
 
 ## 故事开始：小李的智能门禁系统

@@ -1,4 +1,5 @@
 ---
+title: Kotlin/JS 简介与环境搭建
 description: 介绍Kotlin/JS的基本概念、优势以及如何搭建开发环境，创建第一个Kotlin/JS项目。
 tag:
   - Kotlin
@@ -7,7 +8,6 @@ tag:
   - 环境搭建
 sidebar: true
 ---
-
 # Kotlin/JS 简介与环境搭建
 
 ## 什么是 Kotlin/JS

@@ -1,4 +1,5 @@
 ---
+title: Android Kotlin 面向对象与委托模式
 description: 探讨 Kotlin 在 Android 中的面向对象特性，包括类、数据类、密封类、委托与接口实现模式。
 tag:
   - Kotlin
@@ -6,7 +7,6 @@ tag:
   - OOP
 sidebar: true
 ---
-
 # Android Kotlin 面向对象与委托模式
 
 ## 类与构造函数

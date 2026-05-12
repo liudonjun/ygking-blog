@@ -1,4 +1,5 @@
 ---
+title: Flutter FFI 桥接技术
 description: 本文详细介绍Flutter FFI（Foreign Function Interface）桥接技术，包括C/C++库集成、内存管理、性能优化和跨平台实现等内容。
 tag:
   - Flutter
@@ -9,7 +10,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter FFI 桥接技术
 
 ## 概述

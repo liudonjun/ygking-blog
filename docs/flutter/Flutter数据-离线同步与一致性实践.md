@@ -1,6 +1,5 @@
-# Flutter 数据：离线同步与一致性实践
-
 ---
+title: Flutter 数据：离线同步与一致性实践
 
 description: 深入解析 Flutter 应用在弱网或离线场景下的缓存策略、数据同步、冲突解决与一致性保障方法。
 tag:
@@ -11,6 +10,9 @@ tag:
   sidebar: true
 
 ---
+
+# Flutter 数据：离线同步与一致性实践
+
 
 ## 背景
 

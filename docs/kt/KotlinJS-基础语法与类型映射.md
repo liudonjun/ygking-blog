@@ -1,4 +1,5 @@
 ---
+title: Kotlin/JS 基础语法与类型映射
 description: 深入了解Kotlin/JS的语法特性、类型系统以及与JavaScript类型的映射关系，掌握在Web环境中使用Kotlin的核心技能。
 tag:
   - Kotlin
@@ -7,7 +8,6 @@ tag:
   - 语法
 sidebar: true
 ---
-
 # Kotlin/JS 基础语法与类型映射
 
 ## Kotlin/JS 语法概述

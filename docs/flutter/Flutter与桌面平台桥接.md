@@ -1,4 +1,5 @@
 ---
+title: Flutter 与桌面平台桥接
 description: 本文详细介绍Flutter与桌面平台的桥接技术，包括Windows、macOS和Linux平台的集成方法、系统API调用和平台特性适配。
 tag:
   - Flutter
@@ -9,7 +10,6 @@ tag:
 sticky: 1
 sidebar: true
 ---
-
 # Flutter 与桌面平台桥接
 
 ## 概述

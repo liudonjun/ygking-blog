@@ -1,3 +1,11 @@
+---
+title: Flutter 小窗播放桥接技术详解
+description: 在移动应用开发中，小窗播放（Picture-in-Picture, PiP）功能已经成为视频类应...
+tag:
+  - Flutter
+sidebar: true
+---
+
 # Flutter 小窗播放桥接技术详解
 
 ## 引言：小窗播放的兴起与挑战
