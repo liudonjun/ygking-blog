@@ -79,7 +79,7 @@ scripts:
 
 ## 项目结构
 
-```
+```text
 my_monorepo/
 ├── apps/                 # 应用程序
 │   ├── mobile/          # 移动应用
@@ -240,7 +240,7 @@ jobs:
    - 保持包的独立性
    - 避免循环依赖
 
-```
+```text
 packages/
 ├── core/           # 核心功能
 ├── ui/            # UI 组件

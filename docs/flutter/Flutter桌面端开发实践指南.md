@@ -94,7 +94,7 @@ Shortcuts(
 
 ### 3.1 插件结构
 
-```
+```text
 my_plugin/
 ├── lib/my_plugin.dart
 ├── windows/

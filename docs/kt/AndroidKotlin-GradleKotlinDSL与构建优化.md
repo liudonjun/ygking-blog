@@ -40,7 +40,7 @@ android {
 
 `gradle/libs.versions.toml`
 
-```
+```text
 [versions]
 kotlin = "1.9.24"
 androidx-core = "1.13.1"
@@ -71,7 +71,7 @@ dependencyResolutionManagement {
 
 创建 `build-logic` 自定义插件：
 
-```
+```text
 build-logic/
 └── convention/
     ├── build.gradle.kts
@@ -112,7 +112,7 @@ plugins {
 
 `gradle.properties`
 
-```
+```text
 org.gradle.jvmargs=-Xmx4g -Dfile.encoding=UTF-8
 kotlin.incremental=true
 kotlin.incremental.java=true

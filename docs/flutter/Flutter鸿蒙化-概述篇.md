@@ -34,7 +34,7 @@ categories:
 
 Flutter 的跨平台能力来自三层架构：Framework（Dart）、Engine（C++）、Embedder（平台适配层）。鸿蒙化重点在于重写或扩展 Embedder，并补齐 Engine 层针对鸿蒙图形、输入、系统能力的桥接。
 
-```
+```text
 ┌──────────────────────────────┐
 │        Flutter Framework      │ Dart UI / 渲染 / Widgets / Plugins
 ├──────────────────────────────┤

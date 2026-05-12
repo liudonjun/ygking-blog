@@ -247,7 +247,7 @@ external interface Moment {
 
 ### 单模块项目结构
 
-```
+```text
 kotlin-js-project/
 ├── build.gradle.kts
 ├── settings.gradle.kts
@@ -286,7 +286,7 @@ kotlin-js-project/
 
 ### 多模块项目结构
 
-```
+```text
 kotlin-js-multi-module/
 ├── build.gradle.kts
 ├── settings.gradle.kts

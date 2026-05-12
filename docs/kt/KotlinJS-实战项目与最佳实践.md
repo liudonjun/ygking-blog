@@ -25,7 +25,7 @@ categories:
 
 ### 整体架构
 
-```
+```text
 task-manager/
 ├── shared/
 │   ├── build.gradle.kts

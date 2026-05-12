@@ -17,7 +17,7 @@ categories:
 
 ## 模块划分示例
 
-```
+```text
 app/                 // 壳模块，包含启动与导航
 feature/home/        // 业务模块（UI + ViewModel）
 feature/profile/

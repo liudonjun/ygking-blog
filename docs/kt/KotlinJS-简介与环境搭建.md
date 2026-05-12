@@ -83,7 +83,7 @@ brew install gradle
 
 创建项目目录结构：
 
-```
+```text
 kotlin-js-demo/
 ├── build.gradle.kts
 ├── settings.gradle.kts
@@ -195,7 +195,7 @@ fun main() {
 
 ### 标准目录结构
 
-```
+```text
 kotlin-js-demo/
 ├── build.gradle.kts          # 构建配置
 ├── settings.gradle.kts       # 项目设置

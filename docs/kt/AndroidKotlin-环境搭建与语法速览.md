@@ -86,7 +86,7 @@ fun requireNotNull(value: String?): String {
 
 ## Android 工程结构速览
 
-```
+```text
 app/
 ├── build.gradle.kts         // 模块配置
 ├── src/main/

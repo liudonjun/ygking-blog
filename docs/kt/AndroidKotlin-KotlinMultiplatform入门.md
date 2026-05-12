@@ -15,7 +15,7 @@ categories:
 
 ## 工程结构
 
-```
+```text
 project/
 ├── androidApp/             # Android 原生应用
 ├── iosApp/                 # iOS 应用（SwiftUI 或 UIKit）

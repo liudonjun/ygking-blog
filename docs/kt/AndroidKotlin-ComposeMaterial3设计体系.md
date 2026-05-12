@@ -119,7 +119,7 @@ fun WarningText(text: String) {
 
 ### Design Token 示例
 
-```
+```text
 --md-sys-color-primary = #6750A4
 --md-sys-typescale-title-large-font-family = "Roboto"
 ```

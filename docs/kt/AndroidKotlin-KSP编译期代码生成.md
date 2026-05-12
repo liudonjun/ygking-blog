@@ -70,7 +70,7 @@ class AutoRegisterProcessor(env: SymbolProcessorEnvironment) : SymbolProcessor {
 
 `resources/META-INF/services/com.google.devtools.ksp.processing.SymbolProcessorProvider`
 
-```
+```text
 com.example.ksp.AutoRegisterProcessorProvider
 ```
 

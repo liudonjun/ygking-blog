@@ -94,7 +94,7 @@ import 'package:lib/lib.dart' hide baz;
 ## 库的组织
 
 ### 目录结构
-```
+```text
 my_package/
   ├── lib/
   │   ├── my_package.dart       # 主库文件

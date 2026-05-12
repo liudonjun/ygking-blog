@@ -60,7 +60,7 @@ val client = OkHttpClient.Builder()
 
 `proguard-rules.pro`
 
-```
+```text
 -keep class kotlinx.coroutines.** { *; }
 -keepclassmembers class * implements android.os.Parcelable {
     public static final android.os.Parcelable$Creator *;

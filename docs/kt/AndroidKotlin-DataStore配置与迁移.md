@@ -38,7 +38,7 @@ val darkModeFlow: Flow<Boolean> = context.settingsDataStore.data
 
 `user_prefs.proto`
 
-```
+```text
 syntax = "proto3";
 
 option java_package = "com.example.datastore";

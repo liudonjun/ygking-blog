@@ -36,7 +36,7 @@ HarmonyOS NEXT 宣告“纯鸿蒙时代”到来：Android 兼容层移除、Ark
 
 ### 3.1 项目结构
 
-```
+```text
 ohos/
 ├── entry/
 │   ├── ets/
@@ -144,7 +144,7 @@ void FlutterStage::DispatchPointerEvent(const ArkPointerEvent& event) {
 
 NEXT 推荐以 ArkTS 模块化方式封装原生能力：
 
-```
+```text
 plugins/
 ├── camera/
 │   ├── lib/camera.dart

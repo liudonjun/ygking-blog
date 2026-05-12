@@ -61,7 +61,7 @@ flutter doctor -v
 
 Flutter 鸿蒙项目采用「Flutter 工程 + Harmony 工程」并行结构：
 
-```
+```text
 project_root/
 ├── flutter_app/            # Flutter 主工程
 │   ├── lib/
@@ -230,7 +230,7 @@ void main() {
 
 Harmony Embedder 在 C++ 层实现 `BinaryMessenger`，ArkTS 层通过 NAPI/ArkUI 访问原生能力。标准 Flutter 插件结构保持不变，但需要新增 `ohos/` 实现。
 
-```
+```text
 my_plugin/
 ├── lib/my_plugin.dart
 └── ohos/
