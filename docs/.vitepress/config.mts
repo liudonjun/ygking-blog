@@ -91,6 +91,15 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       {
+        text: '文章',
+        items: [
+          { text: 'Dart', link: '/dart/', activeMatch: '/dart/' },
+          { text: 'Flutter', link: '/flutter/', activeMatch: '/flutter/' },
+          { text: 'Kotlin', link: '/kt/', activeMatch: '/kt/' },
+          { text: 'Git', link: '/git/', activeMatch: '/git/' },
+        ]
+      },
+      {
         text: '工具',
         items: [
           {
@@ -123,7 +132,6 @@ export default defineConfig({
           },
         ]
       },
-      // { text: '网站地图', link: '/sitemap' },
       { text: '留言板', link: '/msgboard' },
     ],
     socialLinks: [
