@@ -1,13 +1,6 @@
 ---
 title: Kotlin/JS 系列文章索引
-description: Kotlin/JS系列文章的完整索引，提供学习路径导航和文章间的关联链接。
-tags:
-  - Kotlin
-  - JavaScript
-  - 系列文章
-  - 索引
-  - 导航
-sidebar: true
+date: 2024-09-13
 ---
 # Kotlin/JS 系列文章索引
 

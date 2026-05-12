@@ -1,12 +1,6 @@
 ---
 title: Flutter混合开发实践
-description: 本文详细介绍Flutter混合开发的实践经验，包括原生集成方案、通信机制、性能优化等内容，帮助开发者实现Flutter与原生的无缝协作。
-tags:
-  - Flutter
-  - 混合开发
-  - 原生集成
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Flutter混合开发实践
 

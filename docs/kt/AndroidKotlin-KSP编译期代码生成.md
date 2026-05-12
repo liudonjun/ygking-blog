@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin KSP 编译期代码生成
-description: 讲解 Kotlin Symbol Processing (KSP) 原理、Android 项目实践及性能优化策略。
-tags:
-  - Kotlin
-  - KSP
-  - 编译期
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin KSP 编译期代码生成
 

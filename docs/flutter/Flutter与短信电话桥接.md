@@ -1,9 +1,6 @@
 ---
 title: Flutter 与短信电话桥接技术详解
-description: 短信和电话功能是移动通信的基础，也是许多应用的核心功能之一。无论是验证码发送、通知推送，还是客服...
-tags:
-  - Flutter
-sidebar: true
+date: 2024-09-13
 ---
 
 # Flutter 与短信电话桥接技术详解

@@ -1,11 +1,6 @@
 ---
 title: Flutter 鸿蒙化实战：HarmonyOS 2 基础适配
-description: 手把手搭建 Flutter × HarmonyOS 2 开发环境，从工程配置、生命周期适配到插件迁移，快速跑通基础业务。
-tags:
-  - Flutter
-  - 鸿蒙
-  - 实战教程
-sidebar: true
+date: 2025-11-04
 ---
 
 # Flutter 鸿蒙化实战：HarmonyOS 2 基础适配

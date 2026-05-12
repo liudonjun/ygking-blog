@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin Channel 与并发通信模式
-description: 解析 Kotlin Channel 在 Android 中的使用场景，包括生产者消费者、背压策略与协程并发模式。
-tags:
-  - Kotlin
-  - 协程
-  - 并发
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin Channel 与并发通信模式
 

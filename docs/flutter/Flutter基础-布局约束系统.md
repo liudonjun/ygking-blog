@@ -1,11 +1,6 @@
 ---
 title: Flutter 布局约束系统详解
-description: Flutter 的布局约束系统是构建用户界面的基础，理解它对于创建灵活、响应式的布局至关重要。
-tags:
- - Flutter
- - 基础
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Flutter 布局约束系统详解
 

@@ -1,15 +1,6 @@
 ---
 title: Flutter 与蓝牙设备桥接
-description: 本文详细介绍Flutter应用如何与蓝牙设备进行桥接通信，包括设备扫描、连接、数据传输等核心功能，以及Android和iOS平台的具体实现细节。
-tags:
-  - Flutter
-  - 蓝牙
-  - 设备通信
-  - 平台桥接
-  - IoT
-  - 硬件集成
-sticky: 1
-sidebar: true
+date: 2024-09-13
 ---
 # Flutter 与蓝牙设备桥接
 

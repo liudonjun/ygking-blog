@@ -1,10 +1,6 @@
 ---
 title: Dart 类和对象详解
-description: 详细介绍 Dart 语言中的类定义、对象创建和面向对象编程特性。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-12
 ---
 
 # Dart 类和对象详解

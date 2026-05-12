@@ -1,12 +1,6 @@
 ---
 title: Flutter 插件开发 Android 平台篇
-description: 本文详细介绍 Flutter 插件在 Android 平台的开发流程，包括 Java/Kotlin 接口实现、生命周期管理和权限处理。
-tags:
-  - Flutter
-  - 插件开发
-  - Android
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Flutter 插件开发 Android 平台篇
 

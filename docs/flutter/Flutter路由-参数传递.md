@@ -1,10 +1,6 @@
 ---
 title: Flutter 路由参数传递详解
-description: 详细介绍 Flutter 中路由参数传递的各种方式和最佳实践。
-tags:
- - Flutter
- - 导航
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 路由参数传递详解

@@ -1,9 +1,6 @@
 ---
 title: Flutter IPP 协议静默打印插件开发指南
-description: 在现代企业应用中，静默打印是一个常见但技术挑战较高的需求。无论是零售行业的收银小票、餐饮行业的后...
-tags:
-  - Flutter
-sidebar: true
+date: 2024-09-13
 ---
 
 # Flutter IPP 协议静默打印插件开发指南

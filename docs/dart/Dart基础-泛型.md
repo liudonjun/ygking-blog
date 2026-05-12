@@ -1,10 +1,6 @@
 ---
 title: Dart 泛型详解
-description: 详细介绍 Dart 语言中的泛型使用,包括泛型类、泛型方法和泛型约束等。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-13
 ---
 
 # Dart 泛型详解

@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin 函数式编程与控制流
-description: 介绍 Kotlin 的函数式特性、控制流语法与高阶函数技巧，帮助 Android 开发者编写更简洁的业务逻辑。
-tags:
-  - Kotlin
-  - Android
-  - 函数式
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin 函数式编程与控制流
 

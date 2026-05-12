@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin Jetpack Compose 实战指南
-description: 汇总 Kotlin 在 Jetpack Compose 中的核心用法，从基础组件到状态管理、SideEffect 与性能优化。
-tags:
-  - Kotlin
-  - Compose
-  - Android
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin Jetpack Compose 实战指南
 

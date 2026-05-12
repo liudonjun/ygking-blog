@@ -1,11 +1,6 @@
 ---
 title: Flutter 热重载和热重启机制
-description: Flutter 的热重载和热重启是提升开发效率的重要特性，本文将详细介绍它们的工作原理和使用方法。
-tags:
-  - Flutter
-  - 基础
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Flutter 热重载和热重启机制
 

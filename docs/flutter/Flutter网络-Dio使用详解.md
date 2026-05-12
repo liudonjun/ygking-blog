@@ -1,10 +1,6 @@
 ---
 title: Flutter Dio 网络请求详解
-description: 详细介绍 Flutter 中使用 Dio 进行网络请求的方法和最佳实践。
-tags:
- - Flutter
- - 网络
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter Dio 网络请求详解

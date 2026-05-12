@@ -1,10 +1,6 @@
 ---
 title: Flutter 使用 Melos 管理多包项目
-description: 详细介绍如何使用 Melos 工具管理 Flutter 多包项目，包括项目配置、包管理、版本控制等内容。
-tags:
- - Flutter
- - 工程化
-sidebar: true
+date: 2025-02-26
 ---
 
 # Flutter 使用 Melos 管理多包项目

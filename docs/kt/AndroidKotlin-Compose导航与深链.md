@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin Compose 导航与深链
-description: 介绍 Jetpack Compose Navigation 框架，涵盖路由设计、参数传递、深链与多模块集成。
-tags:
-  - Kotlin
-  - Compose
-  - Navigation
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin Compose 导航与深链
 

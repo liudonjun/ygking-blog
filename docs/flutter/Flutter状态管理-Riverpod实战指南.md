@@ -1,15 +1,6 @@
 ---
 title: Flutter 状态管理-Riverpod 实战指南
-description: 本文通过一个完整的社交媒体应用开发案例，深入浅出地讲解Riverpod状态管理方案的核心概念、高级特性和最佳实践，帮助开发者掌握现代化的Flutter状态管理技术。
-tags:
-  - Flutter
-  - Riverpod
-  - 状态管理
-  - 实战指南
-  - 依赖注入
-  - 响应式编程
-sticky: 1
-sidebar: true
+date: 2024-09-13
 ---
 # Flutter 状态管理-Riverpod 实战指南
 

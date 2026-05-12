@@ -1,11 +1,6 @@
 ---
 title: Flutter 路由动画详解
-description: 详细介绍 Flutter 中自定义路由转场动画的实现方法。
-tags:
- - Flutter
- - 导航
- - 动画
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 路由动画详解

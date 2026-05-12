@@ -1,10 +1,6 @@
 ---
 title: Dart Stream 和 Future 详解
-description: 详细介绍 Dart 语言中的 Stream 和 Future 机制,包括创建、转换、组合等操作。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-13
 ---
 
 # Dart Stream 和 Future 详解

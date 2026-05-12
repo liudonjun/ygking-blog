@@ -1,13 +1,6 @@
 ---
 title: Kotlin/JS DOM 操作与 Web API 集成
-description: 学习Kotlin/JS中的DOM操作技术、事件处理机制以及浏览器Web API的集成方法，构建交互式Web应用程序。
-tags:
-  - Kotlin
-  - JavaScript
-  - DOM
-  - Web API
-  - 事件处理
-sidebar: true
+date: 2024-09-13
 ---
 # Kotlin/JS DOM 操作与 Web API 集成
 

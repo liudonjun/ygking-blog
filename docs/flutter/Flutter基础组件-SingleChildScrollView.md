@@ -1,10 +1,6 @@
 ---
 title: Flutter SingleChildScrollView 组件详解
-description: SingleChildScrollView 是 Flutter 中一个基础且常用的可滚动组件,本文详细介绍其用法和注意事项。
-tags:
- - Flutter
- - 组件
-sidebar: true
+date: 2024-11-12
 ---
 
 # Flutter SingleChildScrollView 组件详解

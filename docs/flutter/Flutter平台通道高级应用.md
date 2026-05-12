@@ -1,14 +1,6 @@
 ---
 title: Flutter 平台通道高级应用
-description: 本文详细介绍Flutter平台通道的高级应用技术，包括自定义编解码器、性能优化、安全通信和复杂场景下的最佳实践。
-tags:
-  - Flutter
-  - 平台通道
-  - MethodChannel
-  - EventChannel
-  - BasicMessageChannel
-sticky: 1
-sidebar: true
+date: 2024-09-13
 ---
 # Flutter 平台通道高级应用
 

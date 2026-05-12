@@ -1,10 +1,6 @@
 ---
 title: Flutter Container 组件详解
-description: Container 是 Flutter 中最常用的布局组件之一,本文详细介绍其用法和注意事项。
-tags:
- - Flutter
- - 组件
-sidebar: true
+date: 2024-11-12
 ---
 
 # Flutter Container 组件详解

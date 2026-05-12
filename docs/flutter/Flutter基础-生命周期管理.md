@@ -1,11 +1,6 @@
 ---
 title: Flutter 生命周期管理详解
-description: Flutter 的生命周期管理是应用开发中的关键概念，理解它对于开发高质量的应用至关重要。
-tags:
- - Flutter
- - 基础
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Flutter 生命周期管理详解
 

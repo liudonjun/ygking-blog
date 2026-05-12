@@ -1,9 +1,6 @@
 ---
 title: Flutter 与文件管理桥接技术详解
-description: 文件管理是移动应用开发中的核心功能之一。无论是文档编辑器、媒体播放器、下载管理器，还是云存储应用...
-tags:
-  - Flutter
-sidebar: true
+date: 2024-09-13
 ---
 
 # Flutter 与文件管理桥接技术详解

@@ -1,10 +1,6 @@
 ---
 title: Dart 集合类型详解
-description: 详细介绍 Dart 语言中的集合类型,包括 List、Set、Map 等。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-13
 ---
 
 # Dart 集合类型详解

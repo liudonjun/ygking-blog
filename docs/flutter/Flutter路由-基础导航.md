@@ -1,10 +1,6 @@
 ---
 title: Flutter 基础导航详解
-description: 详细介绍 Flutter 中的基础导航方法和使用技巧。
-tags:
- - Flutter
- - 导航
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 基础导航详解

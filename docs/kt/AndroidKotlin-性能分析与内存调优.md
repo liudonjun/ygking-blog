@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin 性能分析与内存调优
-description: 总结 Android Kotlin 项目的性能分析方法，包括启动优化、内存泄漏排查与工具使用。
-tags:
-  - Kotlin
-  - 性能
-  - 调优
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin 性能分析与内存调优
 

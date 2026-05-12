@@ -1,10 +1,6 @@
 ---
 title: Flutter 国际化实现详解
-description: 详细介绍 Flutter 中实现应用国际化的方法和最佳实践。
-tags:
- - Flutter
- - 实战
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 国际化实现详解

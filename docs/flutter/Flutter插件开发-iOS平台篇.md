@@ -1,12 +1,6 @@
 ---
 title: Flutter 插件开发 iOS 平台篇
-description: 本文详细介绍 Flutter 插件在 iOS 平台的开发流程，包括 Swift/Objective-C 接口实现、内存管理和系统特性。
-tags:
-  - Flutter
-  - 插件开发
-  - iOS
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Flutter 插件开发 iOS 平台篇
 

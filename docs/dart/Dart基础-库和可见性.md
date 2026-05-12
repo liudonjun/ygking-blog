@@ -1,10 +1,6 @@
 ---
 title: Dart 库和可见性详解
-description: 详细介绍 Dart 语言中的库机制和可见性控制。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-13
 ---
 
 # Dart 库和可见性详解

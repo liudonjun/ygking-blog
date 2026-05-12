@@ -1,10 +1,6 @@
 ---
 title: Dart 元数据和注解详解
-description: 详细介绍 Dart 语言中的元数据和注解使用方法。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-13
 ---
 
 # Dart 元数据和注解详解

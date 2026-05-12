@@ -1,10 +1,6 @@
 ---
 title: Dart Mixin 和扩展详解
-description: 详细介绍 Dart 语言中的 Mixin 和扩展机制,包括混入、扩展方法等特性。
-tags:
- - Dart
- - 基础教程
-sidebar: true
+date: 2024-11-13
 ---
 
 # Dart Mixin 和扩展详解

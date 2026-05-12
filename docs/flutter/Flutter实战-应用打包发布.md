@@ -1,10 +1,6 @@
 ---
 title: Flutter 应用打包发布详解
-description: 详细介绍 Flutter 应用的打包和发布流程。
-tags:
- - Flutter
- - 实战
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 应用打包发布详解

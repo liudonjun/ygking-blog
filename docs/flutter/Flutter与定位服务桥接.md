@@ -1,9 +1,6 @@
 ---
 title: Flutter 与定位服务桥接技术详解
-description: 在移动应用开发中，定位服务已经成为许多应用的核心功能之一。无论是地图导航、外卖配送、社交签到，还...
-tags:
-  - Flutter
-sidebar: true
+date: 2024-09-13
 ---
 
 # Flutter 与定位服务桥接技术详解

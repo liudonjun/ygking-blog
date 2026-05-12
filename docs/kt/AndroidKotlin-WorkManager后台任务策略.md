@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin WorkManager 后台任务策略
-description: 梳理 WorkManager 在 Android 的使用场景、约束配置、链式任务与协程集成方法。
-tags:
-  - Kotlin
-  - WorkManager
-  - 后台任务
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin WorkManager 后台任务策略
 

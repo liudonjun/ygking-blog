@@ -1,11 +1,6 @@
 ---
 title: Dart 并发编程进阶
-description: 本文深入介绍 Dart 的并发编程特性，包括 Isolate 通信机制、事件循环等高级主题。
-tags:
-  - Dart
-  - 并发编程
-sticky: 1
-sidebar: true
+date: 2025-03-14
 ---
 # Dart 并发编程进阶
 

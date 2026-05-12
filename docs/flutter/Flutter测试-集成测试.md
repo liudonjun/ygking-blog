@@ -1,10 +1,6 @@
 ---
 title: Flutter 集成测试详解
-description: 详细介绍 Flutter 中集成测试的编写方法和最佳实践。
-tags:
- - Flutter
- - 测试
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 集成测试详解

@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin Multiplatform 入门
-description: 介绍 Kotlin Multiplatform Mobile 的基本概念、工程结构与在 Android 项目中的集成方式。
-tags:
-  - Kotlin
-  - KMM
-  - Android
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin Multiplatform 入门
 

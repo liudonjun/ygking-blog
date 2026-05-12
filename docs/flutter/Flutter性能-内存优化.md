@@ -1,10 +1,6 @@
 ---
 title: Flutter 内存优化详解
-description: 详细介绍 Flutter 应用内存优化的方法和最佳实践。
-tags:
- - Flutter
- - 性能优化
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 内存优化详解

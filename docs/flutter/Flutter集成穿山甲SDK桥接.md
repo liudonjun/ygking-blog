@@ -1,14 +1,6 @@
 ---
 title: Flutter 集成穿山甲 SDK 桥接
-description: 本文详细介绍Flutter集成穿山甲SDK的桥接技术，包括广告展示、收益统计、用户数据分析和跨平台适配等内容。
-tags:
-  - Flutter
-  - 穿山甲SDK
-  - 广告集成
-  - 桥接技术
-  - 收益优化
-sticky: 1
-sidebar: true
+date: 2024-09-13
 ---
 # Flutter 集成穿山甲 SDK 桥接
 

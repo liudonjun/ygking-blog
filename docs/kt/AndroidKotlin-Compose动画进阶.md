@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin Compose 动画进阶
-description: 深入掌握 Jetpack Compose 动画体系，包括动画规格、Gesture 动画与性能优化。
-tags:
-  - Kotlin
-  - Compose
-  - 动画
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin Compose 动画进阶
 

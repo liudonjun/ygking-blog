@@ -1,10 +1,6 @@
 ---
 title: Flutter 动画曲线详解
-description: 详细介绍 Flutter 中的动画曲线(Curves)使用方法和自定义曲线实现。
-tags:
- - Flutter
- - 动画
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter 动画曲线详解

@@ -1,11 +1,6 @@
 ---
 title: Android Kotlin App Startup 优化策略
-description: 从冷启动路径、同步阻塞、App Startup 库到启动指标监控，系统化优化 Android 应用启动性能。
-tags:
-  - Kotlin
-  - 启动优化
-  - Android
-sidebar: true
+date: 2025-11-04
 ---
 # Android Kotlin App Startup 优化策略
 

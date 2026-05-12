@@ -1,10 +1,6 @@
 ---
 title: Flutter SliverList 组件详解
-description: SliverList 是 Flutter 中用于在 CustomScrollView 中创建列表的组件,本文详细介绍其用法和注意事项。
-tags:
- - Flutter
- - 组件
-sidebar: true
+date: 2024-11-12
 ---
 
 # Flutter SliverList 组件详解

@@ -1,10 +1,6 @@
 ---
 title: Flutter Riverpod 状态管理详解
-description: 详细介绍 Flutter 中使用 Riverpod 进行状态管理的方法和最佳实践。
-tags:
- - Flutter
- - 状态管理
-sidebar: true
+date: 2024-11-13
 ---
 
 # Flutter Riverpod 状态管理详解
